@@ -1,0 +1,212 @@
+# Excel Learning Journey: Day 1 → Day 7
+
+This README documents my **step-by-step learning of Excel** from Day 1 to Day 7.  
+It includes explanations, examples, exercises, and a **week 1 project** to practice all skills learned.
+
+---
+
+## Day 1 — Excel Interface & Workbook Management
+
+Objective:
+- Understand the Excel interface  
+- Create, save, and manage workbooks and worksheets
+
+Excel Interface Overview:
+- Ribbon: Tabs like Home, Insert, Page Layout, Formulas, Data, Review, View  
+- Quick Access Toolbar: Save, Undo, Redo  
+- Worksheet Area: Cells with addresses (A1, B2)  
+- Formula Bar: For formulas and text  
+- Sheet Tabs: Switch between worksheets  
+
+Workbook Management:
+- New Workbook: Ctrl + N  
+- Save Workbook: Ctrl + S → Name it `Day1_Excel.xlsx`  
+- Add Worksheet: Click `+`  
+- Rename Worksheet: Right-click → Rename  
+- Delete Worksheet: Right-click → Delete  
+- Move/Copy Worksheet: Right-click → Move or Copy  
+
+Example Exercise:
+Create a workbook with 3 sheets:
+
+**Customers**  
+| CustomerID | Name  | City      | Email           |  
+|------------|-------|-----------|----------------|  
+| 101        | Ahmed | Mogadishu | ahmed@gmail.com |  
+
+**Products**  
+| ProductID | ProductName | Category | Price |  
+|-----------|------------|----------|-------|  
+| 1         | Rice       | Food     | 10    |  
+
+Sales 
+| SaleID | CustomerID | ProductID | Quantity | SaleDate   |  
+|--------|------------|-----------|----------|------------|  
+| 1001   | 101        | 1         | 5        | 01/12/2025 |  
+
+Practice Tasks:
+1. Rename worksheets: Customers, Products, Sales  
+2. Add a Summary sheet  
+3. Move Products sheet to first position  
+4. Save workbook  
+5. Switch between sheets using Ctrl + Page Up/Page Down  
+
+---
+
+## Day 2 — Basic Formulas (SUM, AVERAGE, COUNT)
+
+Objective:
+- Learn basic formulas in Excel to calculate totals, averages, and counts  
+
+Formulas:  
+- SUM: `=SUM(B2:B10)` → Adds values in a range  
+- AVERAGE: `=AVERAGE(B2:B10)` → Calculates average  
+- COUNT: `=COUNT(B2:B10)` → Counts numbers in a range  
+
+Example Exercise: 
+Add a column **Total Quantity** in Sales sheet:  
+- Calculate total quantity per sale  
+- Calculate average quantity  
+- Count number of sales  
+
+---
+
+## Day 3 — IF Statements (IF, AND, OR)
+
+Objective:
+- Apply conditional logic to data  
+
+Formulas:
+- IF: `=IF(C2>10,"High","Low")`  
+- AND: `=IF(AND(C2>10,D2<50),"Yes","No")`  
+- OR: `=IF(OR(C2>10,D2<50),"Yes","No")`  
+
+Example Exercise:  
+- Add **High/Low Sales** column in Sales sheet using IF  
+- Add **Special Sale** column using AND/OR  
+
+---
+
+## Day 4 — Lookup Functions (VLOOKUP, XLOOKUP)
+
+Objective:
+- Match data from different tables  
+
+Formulas:  
+- VLOOKUP: `=VLOOKUP(101,Customers!A2:D10,2,FALSE)` → Returns Name of CustomerID 101  
+- XLOOKUP: `=XLOOKUP(101,Customers!A2:A10,Customers!B2:B10)`  
+
+Example Exercise:  
+- In Sales sheet, create a column **Customer Name** using VLOOKUP  
+
+---
+
+## Day 5 — Data Cleaning (Remove Duplicates, Trim, Text to Columns)
+
+Objective:
+- Clean messy data for analysis  
+
+Tools:
+- Remove Duplicates: Data → Remove Duplicates  
+- Trim: `=TRIM(A2)` → Remove extra spaces  
+- Text to Columns: Data → Text to Columns → Split full name  
+
+Example Exercise:  
+- Clean Customer names and emails using Trim  
+- Split full names into First and Last names  
+
+---
+
+## Day 6 — Pivot Tables Basics
+
+Objective:
+- Summarize data using Pivot Tables  
+
+Steps: 
+1. Select dataset → Insert → Pivot Table  
+2. Drag fields to Rows, Columns, Values  
+3. Example: Total Quantity per Product  
+
+Example Exercise: 
+- Create a Pivot Table summarizing **Quantity sold per Product**  
+
+---
+
+## Day 7 — Charts & Visualization (Bar, Line, Pie)
+
+Objective:  
+- Visualize data for insights  
+
+Steps:
+1. Select data → Insert → Chart → Choose Bar/Line/Pie  
+2. Customize chart: Titles, Labels, Colors  
+
+Example Exercise: 
+- Create Bar Chart showing **Total Quantity per Product**  
+- Create Pie Chart showing **Sales per Customer**  
+
+---
+
+## Project Week 1 — Clean and Analyze Sales Data in Excel
+
+Objective:
+- Apply all skills from Day 1 → Day 7 to a real dataset  
+- Clean, analyze, and visualize sales data  
+
+Dataset Example:
+
+Customers  
+| CustomerID | Name    | City       | Email               |  
+|------------|---------|-----------|-------------------|  
+| 101        | Ahmed   | Mogadishu | ahmed@gmail.com     |  
+| 102        | Fatima  | Hargeisa  | fatima@gmail.com    |  
+| 103        | Yusuf   | Kismayo   | yusuf@gmail.com     |  
+
+Products
+| ProductID | ProductName | Category | Price |  
+|-----------|------------|----------|-------|  
+| 1         | Rice       | Food     | 10    |  
+| 2         | Sugar      | Food     | 5     |  
+| 3         | Milk       | Dairy    | 8     |  
+
+Sales
+| SaleID | CustomerID | ProductID | Quantity | SaleDate   |  
+|--------|------------|-----------|----------|------------|  
+| 1001   | 101        | 1         | 5        | 01/12/2025 |  
+| 1002   | 102        | 2         | 3        | 01/12/2025 |  
+| 1003   | 103        | 3         | 2        | 01/12/2025 |  
+
+Tasks: 
+1. Rename and organize sheets: Customers, Products, Sales, Summary  
+2. Clean data: Remove duplicates, Trim spaces, split names if needed  
+3. Add formulas:  
+   - Total Quantity per sale (SUM)  
+   - Average Quantity sold (AVERAGE)  
+   - Count of sales (COUNT)  
+   - Conditional column: High/Low Sales (IF)  
+4. Lookup Customer Names in Sales sheet using VLOOKUP/XLOOKUP  
+5. Create a Pivot Table summarizing Quantity sold per Product  
+6. Visualize:  
+   - Bar chart: Quantity per Product  
+   - Pie chart: Sales per Customer  
+7. Save workbook as `Week1_Sales_Project.xlsx`  
+
+Outcome: 
+- Fully cleaned and analyzed Sales dataset  
+- Pivot tables and charts for reporting  
+- Demonstrates Excel skills learned in Week 1  
+
+---
+
+### ✅ Summary After Day 7 & Week 1 Project
+
+- Navigate Excel confidently  
+- Use formulas (SUM, AVERAGE, COUNT)  
+- Apply conditional logic (IF, AND, OR)  
+- Lookup data (VLOOKUP/XLOOKUP)  
+- Clean data effectively  
+- Summarize using Pivot Tables  
+- Visualize with charts  
+- Complete **Week 1 project** applying all skills  
+
+
