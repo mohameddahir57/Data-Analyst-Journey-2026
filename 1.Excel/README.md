@@ -1,6 +1,6 @@
-# Excel Learning Journey: Day 1 → Day 7
+# Excel Learning Journey: Two Weeks
 
-This README documents my **step-by-step learning of Excel** from Day 1 to Day 7.  
+This README documents my **step-by-step learning of Excel** For Two Weeks.  
 It includes explanations, examples, exercises, and a **week 1 project** to practice all skills learned.
 
 Understood — you want **each day’s topic to be fully explained**, with:
@@ -266,6 +266,8 @@ Calculate profit margin with DAX measure.
 * Interactive slicers
 * Automatic refresh
 * KPIs (Growth, YoY, Total Sales)
+
+
 
 
 
