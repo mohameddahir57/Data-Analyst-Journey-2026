@@ -49,7 +49,7 @@ I will record *daily lessons, exercises, projects, and progress* to track my gro
 * **Dec 21:** Project — Employee HR Dataset Analysis
 
 
-### **Week 4 — Excel Advanced**
+## **Week 4 — Excel Advanced**
 
 * **Dec 22:** Advanced Functions (INDEX/MATCH, XLOOKUP Advanced)
 * **Dec 23:** Excel Tables + Structured References
