@@ -1,4 +1,4 @@
-# Data Analyst Journey 2025
+# Data Analyst Journey 2026
 
 This repository documents my **step-by-step journey to become a Data Analyst**, starting **December 1, 2025**, and ending **February 28, 2026**.  
 
@@ -116,5 +116,6 @@ I record **daily lessons, exercises, projects, and progress** to track my growth
   * Build LinkedIn
   * Upload dashboards + SQL projects
   * Interview preparation
+
 
 
