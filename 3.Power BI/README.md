@@ -1,11 +1,11 @@
 
-# ** January 2026 — Power BI Complete (Fully Explained)**
+#  January 2026 — Power BI Complete 
 
 
 
-# **WEEK 1 — POWER BI BASICS**
+# WEEK 1 — POWER BI BASICS
 
-## ** Jan 1 — Install Power BI + Overview**
+## Jan 1 — Install Power BI + Overview
 
 **Topics:**
 
@@ -26,7 +26,7 @@ Import an Excel file and see how it appears in the Data View.
 
 
 
-## ** Jan 2 — Import Data**
+## Jan 2 — Import Data
 
 **Topics:**
 
@@ -48,7 +48,7 @@ Correcting data types is important for calculations.
 
 
 
-## ** Jan 3 — Power Query Basics**
+## Jan 3 — Power Query Basics
 
 **Topics:**
 
@@ -71,7 +71,7 @@ Or remove customers with missing names.
 
 
 
-## ** Jan 4 — Table Relationships**
+## Jan 4 — Table Relationships
 
 **Topics:**
 
@@ -91,7 +91,7 @@ One Product has many Sales → One-to-Many.
 
 
 
-## ** Jan 5–7 — Mini Sales Dashboard**
+## Jan 5–7 — Mini Sales Dashboard
 
 **Goal:** Build a small dashboard from your cleaned data.
 
@@ -109,7 +109,7 @@ You combine everything from Week 1 into 1 simple project.
 
 # **WEEK 2 — VISUALIZATIONS**
 
-## ** Jan 8 — Bar & Line Charts**
+## Jan 8 — Bar & Line Charts
 
 **Topics:**
 
@@ -124,7 +124,7 @@ You combine everything from Week 1 into 1 simple project.
 
 
 
-## ** Jan 9 — Tables & Matrices**
+## Jan 9 — Tables & Matrices
 
 **Topics:**
 
@@ -148,7 +148,7 @@ Table:
 
 
 
-## ** Jan 10 — Slicers & Filters**
+## Jan 10 — Slicers & Filters
 
 **Topics:**
 
@@ -167,7 +167,7 @@ Selecting “2024” updates all visuals instantly.
 
 
 
-## ** Jan 11 — Cards & KPIs**
+## Jan 11 — Cards & KPIs
 
 **Topics:**
 
@@ -185,7 +185,7 @@ KPI:
 
 
 
-## ** Jan 12–14 — Customer Insights Dashboard**
+## Jan 12–14 — Customer Insights Dashboard
 
 **You will build:**
 
@@ -202,9 +202,9 @@ KPI:
 
 
 
-# **WEEK 3 — DAX**
+# WEEK 3 — DAX
 
-## ** Jan 15 — Calculated Columns & Measures**
+## Jan 15 — Calculated Columns & Measures
 
 **Topics:**
 
@@ -227,7 +227,7 @@ Profit = Sales[Price] - Sales[Cost]
 
 
 
-## ** Jan 16 — CALCULATE & SUMX**
+## Jan 16 — CALCULATE & SUMX
 
 **Topics:**
 
@@ -246,7 +246,7 @@ Total Profit = SUMX(Sales, Sales[Quantity] * Sales[ProfitPerUnit])
 
 
 
-## ** Jan 17 — Row Context vs Filter Context**
+## Jan 17 — Row Context vs Filter Context
 
 **Explanation:**
 Row context = row-by-row
@@ -257,7 +257,7 @@ If you click “2023” slicer → filter context changes all visuals.
 
 
 
-## ** Jan 18 — Time Intelligence**
+## Jan 18 — Time Intelligence
 
 **Topics:**
 
@@ -274,7 +274,7 @@ Sales YTD = TOTALYTD(SUM(Sales[Amount]), Dates[Date])
 
 
 
-## ** Jan 19–21 — Revenue & Profit Dashboard**
+## Jan 19–21 — Revenue & Profit Dashboard
 
 **You will create:**
 
@@ -285,9 +285,9 @@ Sales YTD = TOTALYTD(SUM(Sales[Amount]), Dates[Date])
 
 
 
-# **WEEK 4 — FULL PORTFOLIO PROJECT**
+# WEEK 4 — FULL PORTFOLIO PROJECT
 
-## ** Jan 22–31 — Build a Complete BI Dashboard**
+## Jan 22–31 — Build a Complete BI Dashboard
 
 **Final Project Includes:**
 
@@ -304,5 +304,6 @@ Sales YTD = TOTALYTD(SUM(Sales[Amount]), Dates[Date])
 * Power BI (.pbix) file
 * Dashboard screenshots
 * Portfolio description
+
 
 
