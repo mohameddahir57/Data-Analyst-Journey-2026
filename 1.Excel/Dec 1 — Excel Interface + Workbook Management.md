@@ -20,8 +20,7 @@ The Ribbon is divided into **Tabs** (like pages in a menu).
 Inside each Tab, buttons are organized into **Groups**.
 *   Look at the **Home** tab.
 *   See the **Font** group? It keeps all text tools together (Bold, Italic, Color).
-![Groups Highlighted](C:/Users/amind/.gemini/antigravity/brain/f75d5720-d157-40f6-bab2-8ab9e6917a85/excel_groups_highlight_1764612769222.png)
-
+![image alt](Image/GroupsFonts.png)
 ### Step 4: Using a Button (Example: Making Text Bold)
 How do you actually use it?
 1.  Click on a cell with text.
@@ -87,5 +86,6 @@ Open a blank Excel workbook and do the following:
 
 **🎉 You have completed Day 1!**
 You now know how to navigate and organize your workspace.
+
 
 
