@@ -8,8 +8,7 @@ Let's break down the most important part of Excel: **The Ribbon**. This is where
 
 ### Step 1: Locate the Ribbon
 The **Ribbon** is the wide strip at the very top of your window. It contains every button you need.
-![The Ribbon Location](C:/Users/amind/.gemini/antigravity/brain/f75d5720-d157-40f6-bab2-8ab9e6917a85/excel_ribbon_full_highlight_1764612737895.png)
-
+![image alt](TheRibbon.png)
 ### Step 2: Understanding Tabs
 The Ribbon is divided into **Tabs** (like pages in a menu).
 *   **Home**: The main tab. Contains Font, Color, Cut/Copy/Paste.
@@ -88,3 +87,4 @@ Open a blank Excel workbook and do the following:
 
 **🎉 You have completed Day 1!**
 You now know how to navigate and organize your workspace.
+
