@@ -14,8 +14,7 @@ The Ribbon is divided into **Tabs** (like pages in a menu).
 *   **Home**: The main tab. Contains Font, Color, Cut/Copy/Paste.
 *   **Insert**: For adding things (Charts, Pictures).
 *   **Data**: For sorting and filtering.
-![Tabs Highlighted](C:/Users/amind/.gemini/antigravity/brain/f75d5720-d157-40f6-bab2-8ab9e6917a85/excel_tabs_highlight_1764612753696.png)
-
+![image alt](Image/Tab.png)
 ### Step 3: Groups
 Inside each Tab, buttons are organized into **Groups**.
 *   Look at the **Home** tab.
@@ -27,8 +26,7 @@ How do you actually use it?
 2.  Go to the **Home** tab.
 3.  Look in the **Font** group.
 4.  Click the **B** (Bold) button.
-![Action: Making Text Bold](C:/Users/amind/.gemini/antigravity/brain/f75d5720-d157-40f6-bab2-8ab9e6917a85/excel_button_action_bold_1764612786090.png)
-
+![image alt](Image/Bold.png)
 
 ## 2. Workbook vs. Worksheet
 
@@ -45,8 +43,7 @@ You will often have multiple sheets for different things (e.g., "Jan Sales", "Fe
 *   **Move**: Click and drag a tab left or right to rearrange.
 *   **Delete**: Right-click > Delete. (Careful! You can't undo this easily).
 
-![Excel Sheet Tabs](C:/Users/amind/.gemini/antigravity/brain/f75d5720-d157-40f6-bab2-8ab9e6917a85/excel_sheet_tabs_1764612575036.png)
-
+![image alt](Image/Sheet.png)
 
 ## 4. Navigation & Viewing (Seeing Clearly)
 
@@ -56,8 +53,7 @@ You will often have multiple sheets for different things (e.g., "Jan Sales", "Fe
     *   **How to fix**: Go to **View** Tab > **Freeze Panes** > **Freeze Top Row**.
     *   Now, line 1 stays stuck at the top while you scroll!
 
-![Excel Freeze Panes](C:/Users/amind/.gemini/antigravity/brain/f75d5720-d157-40f6-bab2-8ab9e6917a85/excel_freeze_panes_1764612592723.png)
-
+![image alt](Image/Freeze.png)
 
 ---
 
@@ -86,6 +82,7 @@ Open a blank Excel workbook and do the following:
 
 **🎉 You have completed Day 1!**
 You now know how to navigate and organize your workspace.
+
 
 
 
