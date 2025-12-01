@@ -80,8 +80,10 @@ Open a blank Excel workbook and do the following:
     *   Go back up. Go to **View** > **Freeze Panes** > **Freeze Top Row**.
     *   Scroll down again. Notice how `Date`, `Item`, `Amount` stay visible?
 
-**🎉 You have completed Day 1!**
-You now know how to navigate and organize your workspace.
+## End of Day 1
+
+**Day 2 → Basic Formulas (SUM, AVERAGE, COUNT)**
+
 
 
 
