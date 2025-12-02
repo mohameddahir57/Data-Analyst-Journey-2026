@@ -76,10 +76,11 @@ This confuses many people, so let's clear it up.
     *     (Should be 3.75).
 5.  **Count Items**:
     *   In cell **H6**, type `=COUNTA(H2:H5)`.
-    *   ![image alt](Image/Count.png)
+    *   ![image alt](Imagel/Count.png)
     *   (Should be 4).
 
 ## End of Day 2
 
 **Day 3 → Logical Functions (IF, AND, OR)**
+
 
