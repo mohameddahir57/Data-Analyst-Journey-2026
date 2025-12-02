@@ -9,7 +9,7 @@ Understood — you want **each day’s topic to be fully explained**, with:
 
 #  **Week 1 — Excel Basics → Intermediate (Full Explanations)**
 
-### ** Dec 1 — Excel Interface + Workbook Management**
+###  Dec 1 — Excel Interface + Workbook Management
 
 **What this topic means:**
 Learning the layout of Excel and how to organize files.
@@ -28,7 +28,7 @@ Learning the layout of Excel and how to organize files.
 
 
 
-### ** Dec 2 — Basic Formulas (SUM, AVERAGE, COUNT)**
+###  Dec 2 — Basic Formulas (SUM, AVERAGE, COUNT)
 
 **Definition:**
 These are the most common formulas used in data analysis.
@@ -45,7 +45,7 @@ Calculate total sales, average sales, number of transactions.
 
 
 
-### ** Dec 3 — Logical Functions (IF, AND, OR)**
+###  Dec 3 — Logical Functions (IF, AND, OR)
 
 **Definition:**
 Logical formulas check conditions.
@@ -62,7 +62,7 @@ Logical formulas check conditions.
 
 
 
-### ** Dec 4 — Lookup Functions (VLOOKUP, XLOOKUP)**
+###  Dec 4 — Lookup Functions (VLOOKUP, XLOOKUP)
 
 **Definition:**
 Lookup functions search for data in a table.
@@ -77,7 +77,7 @@ Find product price by product ID using `XLOOKUP`.
 
 
 
-### ** Dec 5 — Data Cleaning**
+###  Dec 5 — Data Cleaning
 
 **Definition:**
 Fixing messy data.
@@ -96,7 +96,7 @@ Clean customer names like:
 
 
 
-### ** Dec 6 — Pivot Tables (Basics)**
+###  Dec 6 — Pivot Tables (Basics)
 
 **Definition:**
 A pivot table summarizes data automatically.
@@ -113,7 +113,7 @@ Summarize total sales by product category.
 
 
 
-### ** Dec 7 — Charts & Visuals**
+###  Dec 7 — Charts & Visuals
 
 **Definition:**
 Charts help you see data clearly.
@@ -143,7 +143,7 @@ Create a “Sales by Month” line chart.
 
 #  **Week 4 — Excel Advanced (Full Explanations)**
 
-### ** Dec 22 — Advanced Lookup (INDEX+MATCH, FILTER)**
+###  Dec 22 — Advanced Lookup (INDEX+MATCH, FILTER)
 
 **Definition:**
 Better and more flexible lookup methods.
@@ -159,7 +159,7 @@ Filter all sales greater than $500 automatically.
 
 
 
-### ** Dec 23 — Excel Tables + Structured References**
+###  Dec 23 — Excel Tables + Structured References
 
 **Definition:**
 Excel Tables automatically update formulas and ranges.
@@ -175,7 +175,7 @@ Typing a new row automatically updates totals.
 
 
 
-### ** Dec 24 — Advanced Pivot Tables**
+###  Dec 24 — Advanced Pivot Tables
 
 **Definition:**
 More powerful features of pivot tables.
@@ -191,7 +191,7 @@ Summarize monthly sales with automatic grouping.
 
 
 
-### ** Dec 25 — Pivot Charts + Interactive Elements**
+###  Dec 25 — Pivot Charts + Interactive Elements
 
 **Definition:**
 Interactive dashboards using pivot charts.
@@ -207,7 +207,7 @@ Make a slicer to filter sales by region.
 
 
 
-### ** Dec 26 — Excel Power Query**
+###  Dec 26 — Excel Power Query
 
 **Definition:**
 Tool for cleaning data automatically.
@@ -224,7 +224,7 @@ Automatically clean “Sales 2025” dataset with one click refresh.
 
 
 
-### ** Dec 27 — Excel Power Pivot**
+###  Dec 27 — Excel Power Pivot
 
 **Definition:**
 Used for large datasets and modeling.
@@ -240,7 +240,7 @@ Link Sales table with Products table.
 
 
 
-### ** Dec 28 — Intro to DAX in Excel**
+###  Dec 28 — Intro to DAX in Excel
 
 **Definition:**
 DAX (Data Analysis Expressions) is similar to formulas but more powerful.
@@ -256,7 +256,7 @@ DAX (Data Analysis Expressions) is similar to formulas but more powerful.
 Calculate profit margin with DAX measure.
 
 
-### ** Dec 29–31 — Project: Excel Business Dashboard**
+###  Dec 29–31 — Project: Excel Business Dashboard
 
 **You will build:**
 
