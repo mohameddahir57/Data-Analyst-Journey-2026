@@ -67,12 +67,19 @@ This confuses many people, so let's clear it up.
     *   A4: `Eggs`, B4: `5`
     *   A5: `Juice`, B5: `5`
 3.  **Calculate Total Cost**:
-    *   In cell **B6**, type `=SUM(B2:B5)`. (Should be 15).
+    *   In cell **B6**, type `=SUM(B2:B5)`
+    *  ![image alt](Image/EX_Sum.png)
+    *   (Should be 15).
 4.  **Calculate Average Price**:
-    *   In cell **B7**, type `=AVERAGE(B2:B5)`. (Should be 3.75).
+    *   In cell **E6**, type `=AVERAGE(E2:E5)`.
+    *   ![image alt](Image/EX_AVERAGE.png)
+    *     (Should be 3.75).
 5.  **Count Items**:
-    *   In cell **B8**, type `=COUNTA(A2:A5)`. (Should be 4).
+    *   In cell **H6**, type `=COUNTA(H2:H5)`.
+    *   ![image alt](Image/Count.png)
+    *   (Should be 4).
 
 ## End of Day 2
 
 **Day 3 → Logical Functions (IF, AND, OR)**
+
