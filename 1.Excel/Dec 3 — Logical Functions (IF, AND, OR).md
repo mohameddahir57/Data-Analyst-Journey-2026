@@ -135,12 +135,12 @@ Copy these tables into Excel to practice.
 ### 1. The IF Function (Simple Condition)
 **Scenario:** Check if a salesperson met their target of $10,000.
 
-|   | A           | B      | C      |
+| **ID**  |  **Name**          | **Sales**      | **Status**      |
 |---|-------------|--------|--------|
-| **ID** | **Name**    | **Sales** | **Status** |
-| 1 | Mohamed     | 12000  |        |
-| 2 | Zakia       | 8000   |        |
-| 3 | Amran       | 15000  |        |
+|1 | Mohamed     | 12000  | |
+| 2 | Zakia    | 8000 |        |
+| 3 | Amran      | 15000   |        |
+
 
 *   **Goal:** In column C, display "Met Target" if Sales > 10000, otherwise "Missed".
 *   **Formula for C2:** `=IF(B2>10000, "Met Target", "Missed")`
@@ -153,12 +153,12 @@ Copy these tables into Excel to practice.
 ### 2. The AND Function (All Conditions Must Be True)
 **Scenario:** A student passes only if they score >= 50 **AND** have attendance >= 80%.
 
-|   | A       | B     | C          | D      |
+|  **ID**  | **Student**      | **Score**| **Attendance**          | **Result**    |
 |---|---------|-------|------------|--------|
-| **ID** | **Student** | **Score** | **Attendance** | **Result** |
-| 1 | Hodan   | 75    | 90%        |        |
-| 2 | Hani     | 45    | 85%        |        |
-| 3 | Hashim | 80    | 70%        |        |
+| 1 | Hodan | 75 |  90%  |  |
+| 2 | Hani   | 45    | 85%        |        |
+| 3 | Hashim      | 80    | 70%        |        |
+
 
 *   **Goal:** In column D, check if they pass.
 *   **Formula for E11:** `=IF(AND(C11>=50, D11>=80%), "Pass", "Fail")`
@@ -171,12 +171,12 @@ Copy these tables into Excel to practice.
 ### 3. The OR Function (At Least One Condition True)
 **Scenario:** Give a discount if the customer is a "VIP" **OR** spends more than $100.
 
-|   | A        | B          | C       | D        |
+| **ID** | **Name**  | **Type**  | **Spend** |  **Discount**        |
 |---|----------|------------|---------|----------|
-| **ID** | **Customer** | **Type**   | **Spend** | **Discount** |
-| 1 | Nasro      | VIP        | 50      |          |
-| 2 | Mohamud    | Regular    | 120     |          |
-| 3 | Safia    | Regular    | 80      |          |
+| 1 |  Nasro   | VIP  | 50 | |
+| 2 |  Mohamud     |  Regular     | 120      |          |
+| 3 | Safia    | Regular    |  80      |          |
+
 
 *   **Goal:** In column D, display "Yes" if eligible, "No" if not.
 *   **Formula for E21:** `=IF(OR(C21="VIP", D21>100), "Yes", "No")`
@@ -188,5 +188,6 @@ Copy these tables into Excel to practice.
 
 ---
 ## End of Day 3
+
 
 **Day 4 → Lookup Functions (VLOOKUP, XLOOKUP)**
