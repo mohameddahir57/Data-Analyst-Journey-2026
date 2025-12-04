@@ -12,6 +12,8 @@
 *   **table_array**: The range of cells containing the data (e.g., A2:C10).
 *   **col_index_num**: The column number in the range containing the return value (1 for first column, 2 for second, etc.).
 *   **range_lookup**: `FALSE` for exact match (most common), `TRUE` for approximate match.
+*   0 is the numerical equivalent of FALSE.
+*   1 is the numerical equivalent of TRUE.
 
 **Example:**
 Find the price of "Apple".
@@ -22,7 +24,7 @@ Find the price of "Apple".
 | 2 | Banana  | $0.50   |
 
 ```excel
-=VLOOKUP("Apple", A2:B3, 2, FALSE)
+=VLOOKUP(E2,B2:C11,2,FALSE)
 ```
 ![image alt](Image/VLOOKUP.png)
 
@@ -111,3 +113,4 @@ Copy these tables into Excel to practice.
 ## End of Day 4
 
 **Day 5 → Data Cleaning (Text functions, Duplicates)**
+
