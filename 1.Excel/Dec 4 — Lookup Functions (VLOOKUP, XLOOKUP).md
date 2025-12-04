@@ -50,6 +50,7 @@ Find the price of "Banana".
 ```excel
 =XLOOKUP("Banana", A2:A3, B2:B3, "Not Found")
 ```
+![image alt](Image/VLOOKUP.png)
 *Result: $0.50*
 
 **Why XLOOKUP is better:**
@@ -76,12 +77,13 @@ Copy these tables into Excel to practice.
 
 **Task Table (E1:F3):**
 |**Lookup ID** | **Dept?**  |
-|---|----|------------|
-| 1 | 102|            |
-| 2 | 104|            |
+|----|------------|
+| 102|            |
+| 104|            |
 
 *   **Goal:** Use VLOOKUP in F2 and F3 to find the Department.
 *   **Formula for F2:** `=VLOOKUP(E2, A2:C5, 3, FALSE)`
+![image alt](Image/VLOOKUP.png)
 *   **Expected Result:**
     *   102 -> IT
     *   104 -> Finance
@@ -91,20 +93,21 @@ Copy these tables into Excel to practice.
 
 **Data Table (A1:C5):**
 | **ID** | **Name**    | **Salary**  |
-|---|--------|-------------|-------------|
-| 1 | 101    | Ahmed       | 5000        |
-| 2 | 102    | Sarah       | 7000        |
-| 3 | 103    | Bilal       | 6000        |
-| 4 | 104    | Fatima      | 8000        |
+|--------|-------------|-------------|
+| 101    | Ahmed       | 5000        |
+| 102    | Sarah       | 7000        |
+| 103    | Bilal       | 6000        |
+| 104    | Fatima      | 8000        |
 
 **Task Table (E1:F3):**
 | **Name**   | **Salary?**|
-|---|------------|------------|
-| 1 | Bilal      |            |
-| 2 | Zainab     |            |
+|------------|------------|
+| Bilal      |            |
+| Zainab     |            |
 
 *   **Goal:** Use XLOOKUP in F2 and F3. Handle missing names with "Not Found".
 *   **Formula for F2:** `=XLOOKUP(E2, B2:B5, C2:C5, "Not Found")`
+![image alt](Image/VLOOKUP.png)
 *   **Expected Result:**
     *   Bilal -> 6000
     *   Zainab -> Not Found
@@ -113,4 +116,5 @@ Copy these tables into Excel to practice.
 ## End of Day 4
 
 **Day 5 → Data Cleaning (Text functions, Duplicates)**
+
 
