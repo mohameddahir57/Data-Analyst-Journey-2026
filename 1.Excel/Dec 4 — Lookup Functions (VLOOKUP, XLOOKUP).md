@@ -50,7 +50,7 @@ Find the price of "Banana".
 ```excel
 =XLOOKUP("Banana", A2:A3, B2:B3, "Not Found")
 ```
-![image alt](Image/VLOOKUP.png)
+![image alt](Image/XLOOKUP.png)
 *Result: $0.50*
 
 **Why XLOOKUP is better:**
@@ -83,7 +83,7 @@ Copy these tables into Excel to practice.
 
 *   **Goal:** Use VLOOKUP in F2 and F3 to find the Department.
 *   **Formula for F2:** `=VLOOKUP(E2, A2:C5, 3, FALSE)`
-![image alt](Image/VLOOKUP.png)
+![image alt](Image/PLOOKUP.png)
 *   **Expected Result:**
     *   102 -> IT
     *   104 -> Finance
@@ -107,7 +107,7 @@ Copy these tables into Excel to practice.
 
 *   **Goal:** Use XLOOKUP in F2 and F3. Handle missing names with "Not Found".
 *   **Formula for F2:** `=XLOOKUP(E2, B2:B5, C2:C5, "Not Found")`
-![image alt](Image/VLOOKUP.png)
+![image alt](Image/PXLOOKUP.png)
 *   **Expected Result:**
     *   Bilal -> 6000
     *   Zainab -> Not Found
@@ -116,5 +116,6 @@ Copy these tables into Excel to practice.
 ## End of Day 4
 
 **Day 5 → Data Cleaning (Text functions, Duplicates)**
+
 
 
