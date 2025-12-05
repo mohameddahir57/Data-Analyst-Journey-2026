@@ -72,15 +72,16 @@ Copy this table into Excel (A1:B6).
 
 ### Tasks:
 1.  **Clean Names**: Use formulas to create a "Clean Name" column.
-    *   Remove spaces: `=TRIM(A2)`
-    *   Fix capitalization: `=PROPER(TRIM(A2))`
+    *   Remove spaces: `=TRIM(A2:B6)`
+    *   Fix capitalization: `=PROPER(TRIM(A2:B6))`
 2.  **Extract Username**: Extract the text before the "@" in the email.
     *   Formula: `=LEFT(B2, FIND("@", B2) - 1)`
 3.  **Remove Duplicates**:
     *   Select the whole table.
     *   Data > Remove Duplicates.
-    *   Notice that "john doe" appears twice (rows 2 and 5). If you select both columns, are they duplicates? (No, emails differ). If you select only "Raw Name", one will be removed.
-
+    *   Notice that "Mohamed Dahir" appears twice (rows 2 and 5). If you select both columns, are they duplicates? (No, emails differ). If you select only "Raw Name", one will be removed.
+![image alt](Image/Datacleaning.png)
 ---
 ## End of Day 5
 **Day 6 → Pivot Tables Basics**
+
