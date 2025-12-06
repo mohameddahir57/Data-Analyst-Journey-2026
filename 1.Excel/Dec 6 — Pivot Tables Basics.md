@@ -20,7 +20,7 @@ When you build a Pivot Table, you drag fields into four areas:
 
 ### Data Source
 The data consists of invoices with Date, Product, Units Sold, Unit Price, and Location info.
-[View Data (CSV)](Dec 6 — Pivot Tables Basics.csv)
+[View Data (CSV)](Dec6—PivotTablesBasics.csv)
 
 ### Analysis Result
 By placing **City** in the **Rows** area and **TotalPrice** in the **Values** area (Sum), we get the following breakdown:
