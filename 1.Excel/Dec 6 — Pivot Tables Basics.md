@@ -33,9 +33,10 @@ By placing **City** in the **Rows** area and **TotalPrice** in the **Values** ar
 | Nairobi | $23,250.00 |
 | **Grand Total** | **$126,920.00** |
 
-![image alt](Image/PivotTables.png)
+![image alt](Image/Datacleaning.png)
 ### Verification
 The Grand Total of **$126,920.00** matches the control totals, confirming the analysis is correct.
+
 
 
 
