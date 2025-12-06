@@ -20,7 +20,7 @@ When you build a Pivot Table, you drag fields into four areas:
 
 ### Data Source
 The data consists of invoices with Date, Product, Units Sold, Unit Price, and Location info.
-[View Data (CSV)](Day6_Data.csv)
+[View Data (CSV)](Dec 6 — Pivot Tables Basics.csv)
 
 ### Analysis Result
 By placing **City** in the **Rows** area and **TotalPrice** in the **Values** area (Sum), we get the following breakdown:
@@ -36,6 +36,7 @@ By placing **City** in the **Rows** area and **TotalPrice** in the **Values** ar
 ![image alt](Image/PivotTables.png)
 ### Verification
 The Grand Total of **$126,920.00** matches the control totals, confirming the analysis is correct.
+
 
 
 
