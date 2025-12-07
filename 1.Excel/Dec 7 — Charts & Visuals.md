@@ -4,7 +4,7 @@ Visualizing data is crucial for identifying trends, patterns, and outliers. Exce
 
 ## 1. Preparing the Data
 
-We will use the sales data from `Dec6—PivotTablesBasics.csv`. Ensure your data is clean and organized, with headers in the first row.
+We will use the sales data from [View Data (CSV)](Dec6—PivotTablesBasics.csv). Ensure your data is clean and organized, with headers in the first row.
 
 **Key Columns for Visualization:**
 - **Product**: Categorical data for comparison.
@@ -65,3 +65,4 @@ Once a chart is created, you can customize it using the **Chart Design** and **F
 -   **Keep it Simple**: Avoid 3D charts as they can be hard to read.
 -   **Sort Data**: For column/bar charts, sorting your data (e.g., highest to lowest) makes comparisons easier.
 -   **Use Appropriate Scales**: Ensure your axis scales don't distort the data.
+
