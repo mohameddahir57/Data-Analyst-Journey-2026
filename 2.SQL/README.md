@@ -4,7 +4,7 @@
 
 
 
-## ** Dec 8 — SELECT + WHERE**
+##  Dec 8 — SELECT + WHERE
 
 ### **Definition**
 
@@ -39,7 +39,7 @@ WHERE total > 100;
 
 
 
-## ** Dec 9 — ORDER BY + LIMIT**
+##  Dec 9 — ORDER BY + LIMIT
 
 ### **Definition**
 
@@ -71,7 +71,7 @@ LIMIT 5;
 
 
 
-## ** Dec 10 — JOINs (INNER, LEFT, RIGHT)**
+##  Dec 10 — JOINs (INNER, LEFT, RIGHT)
 
 ### **Definition**
 
@@ -99,7 +99,7 @@ LEFT JOIN orders o ON p.id = o.product_id;
 
 ---
 
-## ** Dec 11 — GROUP BY + HAVING**
+##  Dec 11 — GROUP BY + HAVING
 
 ### **Definition**
 
@@ -131,7 +131,7 @@ HAVING SUM(total) > 500;
 
 
 
-## ** Dec 12 — Subqueries**
+##  Dec 12 — Subqueries
 
 ### **Definition**
 
@@ -160,7 +160,7 @@ FROM customers;
 
 
 
-## ** Dec 13 — Aggregation Practice**
+##  Dec 13 — Aggregation Practice
 
 ### **Definition**
 
@@ -188,7 +188,7 @@ GROUP BY customer_id;
 
 
 
-## ** Dec 14 — Project: Customer Purchase SQL Analysis**
+##  Dec 14 — Project: Customer Purchase SQL Analysis
 
 ### **What you will do**
 
@@ -207,7 +207,7 @@ GROUP BY customer_id;
 
 
 
-## ** Dec 15 — Window Functions (OVER, PARTITION BY)**
+##  Dec 15 — Window Functions (OVER, PARTITION BY)
 
 ### **Definition**
 
@@ -231,7 +231,7 @@ FROM orders;
 
 
 
-## ** Dec 16 — Common Table Expressions (CTE / WITH)**
+##  Dec 16 — Common Table Expressions (CTE / WITH)
 
 ### **Definition**
 
@@ -255,7 +255,7 @@ SELECT * FROM high_value;
 
 
 
-## ** Dec 17 — Index Basics & Query Optimization**
+##  Dec 17 — Index Basics & Query Optimization
 
 ### **Definition**
 
@@ -278,7 +278,7 @@ CREATE INDEX idx_customer_id ON orders(customer_id);
 
 
 
-## ** Dec 18 — Complex Joins + Multiple Tables**
+##  Dec 18 — Complex Joins + Multiple Tables
 
 ### **Definition**
 
@@ -301,7 +301,7 @@ JOIN products p ON p.id = o.product_id;
 
 
 
-## ** Dec 19 — Data Modeling (ERD Basics)**
+##  Dec 19 — Data Modeling (ERD Basics)
 
 ### **Definition**
 
@@ -321,7 +321,7 @@ Customers (1) → (many) Orders.
 
 
 
-## ** Dec 20 — Advanced SQL Practice**
+##  Dec 20 — Advanced SQL Practice
 
 ### **What you learn**
 
@@ -338,7 +338,7 @@ Customers (1) → (many) Orders.
 
 
 
-## ** Dec 21 — Project: Employee HR Dataset Analysis**
+##  Dec 21 — Project: Employee HR Dataset Analysis
 
 ### **You will:**
 
@@ -347,5 +347,6 @@ Customers (1) → (many) Orders.
 * Department performance
 * Use JOIN + window functions
 * Build clean SQL reports
+
 
 
