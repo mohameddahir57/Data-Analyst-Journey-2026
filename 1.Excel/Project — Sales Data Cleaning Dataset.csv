@@ -1,0 +1,48 @@
+Order ID,Date,Product Name,Customer Name,Region,Sales Amount,Payment Method
+1001,15/01/2023,Wireless Mouse,Abdi Ali,Banadir,25.5,Credit Card
+1002,16/01/2023,Laptop Stand,Asha Hassan,Puntland,45,EVC Plus
+1003,17/01/2023,Hdmi Cable,Mohamed Farah,Somaliland,12.99,Credit Card
+1004,18/01/2023,Mechanical Keyboard,Sahra Ahmed,Galmudug,89.99,Zaad
+1005,19/01/2023,Usb-C Hub,Hussein Abdi,Banadir,35,EVC Plus
+1006,20/01/2023,Monitor,Fatuma Mohamed,puntland,150,Credit Card
+1007,21/01/2023,Ergonomic Chair,Maryam Yusuf,Somaliland,250,Zaad
+1008,22/01/2023,Webcam,Omar Ibrahim,Galmudug,60,Sahal
+1009,23/01/2023,Wireless Mouse,Khadija Ali,Banadir,25.5,EVC Plus
+1010,24/01/2023,Laptop Stand,Hassan Nur,Puntland,45,Sahal
+1011,25/01/2023,Hdmi Cable,Leyla Aden,Somaliland,12.99,Zaad
+1012,26/01/2023,Mechanical Keyboard,Yasin Warsame,Galmudug,89.99,EVC Plus
+1013,27/01/2023,Usb-C Hub,Zahra Jama,Banadir,35,Sahal
+1014,28/01/2023,Monitor,Khalid Osman,Puntland,150,Credit Card
+1015,29/01/2023,Ergonomic Chair,Safia Abdirahman,Somaliland,250,Zaad
+1016,30/01/2023,Webcam,Bilal Sheikh,Galmudug,60,Sahal
+1017,31/01/2023,Wireless Mouse,Amina Hussein,Banadir,25.5,EVC Plus
+1018,01/02/2023,Laptop Stand,Mustafa Haji,Puntland,45,Sahal
+1019,02/02/2023,Hdmi Cable,Nasteha Dahir,Somaliland,12.99,Zaad
+1020,03/02/2023,Mechanical Keyboard,Ridwan Salah,Galmudug,89.99,Credit Card
+1021,04/02/2023,Usb-C Hub,Said Mohamud,Banadir,35,EVC Plus
+1022,05/02/2023,Monitor,Fartun Gedi,Puntland,150,Sahal
+1023,06/02/2023,Ergonomic Chair,Hamza Khalif,Somaliland,250,Zaad
+1024,07/02/2023,Webcam,Ikhlas Elmi,Galmudug,60,EVC Plus
+1025,08/02/2023,Wireless Mouse,Jamal Farah,Banadir,25.5,Sahal
+1026,09/02/2023,Laptop Stand,Kawsar Abdi,Puntland,45,Credit Card
+1027,10/02/2023,Hdmi Cable,Liban Hassan,Somaliland,12.99,Zaad
+1028,11/02/2023,Mechanical Keyboard,Muna Ibrahim,Galmudug,89.99,EVC Plus
+1029,12/02/2023,Usb-C Hub,Nur Ahmed,Banadir,35,Sahal
+1030,13/02/2023,Monitor,Osob Ali,Puntland,150,EVC Plus
+1031,14/02/2023,Ergonomic Chair,Qasim Yusuf,Somaliland,250,Zaad
+1032,15/02/2023,Webcam,Rahma Mohamed,Galmudug,60,Credit Card
+1033,16/02/2023,Wireless Mouse,Salma Nur,Banadir,25.5,EVC Plus
+1034,17/02/2023,Laptop Stand,Tahir Aden,Puntland,45,Sahal
+1035,18/02/2023,Hdmi Cable,Ubah Warsame,Somaliland,12.99,Zaad
+1036,19/02/2023,Mechanical Keyboard,Warsame Jama,Galmudug,89.99,EVC Plus
+1037,20/02/2023,Usb-C Hub,Yusuf Osman,Banadir,35,Sahal
+1038,21/02/2023,Monitor,Zakariya Abdirahman,Puntland,150,Credit Card
+1039,22/02/2023,Ergonomic Chair,Asma Sheikh,Somaliland,250,Zaad
+1040,23/02/2023,Webcam,Bashir Hussein,Galmudug,60,EVC Plus
+1041,24/02/2023,Wireless Mouse,Chaltu Haji,Banadir,25.5,Sahal
+1042,25/02/2023,Laptop Stand,Daud Dahir,Puntland,45,EVC Plus
+1043,26/02/2023,Hdmi Cable,Ebyan Salah,Somaliland,12.99,Zaad
+1044,27/02/2023,Mechanical Keyboard,Faduma Mohamud,Galmudug,89.99,Credit Card
+1045,28/02/2023,Usb-C Hub,Guled Gedi,Banadir,35,EVC Plus
+1046,01/03/2023,Monitor,Hodan Khalif,Puntland,150,Sahal
+1047,02/03/2023,Ergonomic Chair,Ismail Elmi,Somaliland,250,Zaad
