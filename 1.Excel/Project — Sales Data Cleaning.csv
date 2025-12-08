@@ -1,0 +1,54 @@
+Transaction ID,Date,Customer Name,Product Name,Region,Sales Amount,Payment Method
+1001,23/11/2024,Maryan   Ahmed,mechanical keyboard,Puntland,476,Credit Card
+1002,29/10/2024,Ibrahim   Nuur,wireless mouse,Hirshabelle,386,Bank Transfer
+1003,22/04/2024,Hodan Duale,Laptop Stand,Galmudug,410,PayPal
+1004,22/02/2024,Maryan Ahmed,Headphones,jubaland,255,Credit Card
+1005,12/07/2024,Maryan Ahmed,Headphones,Banadir,60,Mobile Money
+1006,21/02/2024,Ibrahim   Nuur,headphones,somaliland,156,Credit Card
+1007,07/11/2024,Farah Hassan,monitor arm,galmudug,493,Mobile Money
+1008,16/12/2024,Asha Hussein,laptop stand,Banadir,53,Mobile Money
+1009,17/10/2024,Asha   Hussein,Desk Mat,galmudug,91,Mobile Money
+1010,14/10/2024,Mohamed Yusuf,Webcam,Puntland,272,Credit Card
+1011,25/01/2024,Maryan   Ahmed,USB-C Hub,Banadir,259,PayPal
+1012,10/10/2024,Abdi Ali,Wireless Mouse,Somaliland,170,Bank Transfer
+1013,21/03/2024,Hodan   Duale,Mechanical Keyboard,Hirshabelle,172,Mobile Money
+1014,19/03/2024,Asha Hussein,Laptop Stand,Banadir,445,PayPal
+1015,02/05/2024,Abdi   Ali,wireless mouse,Galmudug,292,Mobile Money
+1016,06/03/2024,Hodan Duale,usb-c hub,Jubaland,495,Mobile Money
+1017,08/06/2024,Ibrahim Nuur,Headphones,banadir,52,PayPal
+1018,11/01/2024,Khadija Omar,laptop stand,south west,54,Credit Card
+1019,18/06/2024,Maryan Ahmed,Mechanical Keyboard,Puntland,315,Bank Transfer
+1020,04/05/2024,Hodan Duale,monitor arm,South West,259,Credit Card
+1021,10/12/2024,Maryan   Ahmed,Headphones,puntland,249,Mobile Money
+1022,04/08/2024,Farah   Hassan,MONITOR ARM,Jubaland,45,Credit Card
+1023,17/02/2024,Khadija   Omar,Desk Mat,banadir,21,Bank Transfer
+1024,15/05/2024,Hodan   Duale,desk mat,somaliland,49,Credit Card
+1025,09/06/2024,Abdi   Ali,Desk Mat,puntland,280,Credit Card
+1026,05/04/2024,Maryan Ahmed,Monitor Arm,hirshabelle,324,Credit Card
+1027,13/11/2024,Maryan Ahmed,Headphones,South West,87,PayPal
+1028,22/08/2024,Asha Hussein,wireless mouse,Hirshabelle,57,Mobile Money
+1029,16/09/2024,Mohamed   Yusuf,Headphones,somaliland,244,PayPal
+1030,09/11/2024,Abdi Ali,Mechanical Keyboard,puntland,475,Credit Card
+1031,10/10/2024,Farah   Hassan,Monitor Arm,South West,148,Credit Card
+1032,17/02/2024,Ibrahim Nuur,laptop stand,jubaland,154,Mobile Money
+1033,14/08/2024,Ibrahim Nuur,wireless mouse,South West,447,PayPal
+1034,25/10/2024,Farah Hassan,Laptop Stand,jUBALAND,203,Mobile Money
+1035,15/12/2024,Khadija Omar,Headphones,Galmudug,493,Mobile Money
+1036,24/03/2024,Farah Hassan,laptop stand,Somaliland,362,Mobile Money
+1037,16/05/2024,Farah Hassan,WIRELESS MOUSE,galmudug,438,Bank Transfer
+1038,28/06/2024,Mohamed Yusuf,monitor arm,south west,188,PayPal
+1039,05/02/2024,Mohamed Yusuf,Webcam,Somaliland,153,Mobile Money
+1040,24/10/2024,Mohamed   Yusuf,Webcam,Galmudug,217,Mobile Money
+1041,10/05/2024,Abdi Ali,Laptop Stand,South West,363,Mobile Money
+1042,05/07/2024,Ibrahim   Nuur,Headphones,Banadir,178,Bank Transfer
+1043,16/06/2024,Ibrahim Nuur,usb-c hub,South West,482,Mobile Money
+1044,11/11/2024,Mohamed Yusuf,Laptop Stand,Jubaland,258,Bank Transfer
+1045,14/08/2024,Khadija Omar,USB-C Hub,South West,439,Mobile Money
+1046,10/12/2024,Mohamed   Yusuf,monitor arm,banadir,263,Credit Card
+1047,21/08/2024,Ibrahim Nuur,Monitor Arm,galmudug,355,Credit Card
+1048,24/02/2024,Ibrahim   Nuur,desk mat,Puntland,88,Bank Transfer
+1049,07/12/2024,Asha Hussein,Desk Mat,Hirshabelle,248,Mobile Money
+1050,31/08/2024,Hodan   Duale,Monitor Arm,Jubaland,160,Bank Transfer
+1014,19/03/2024,Asha Hussein,Laptop Stand,Banadir,445,PayPal
+1040,24/10/2024,Mohamed   Yusuf,Webcam,Galmudug,217,Mobile Money
+1031,10/10/2024,Farah   Hassan,Monitor Arm,South West,148,Credit Card
