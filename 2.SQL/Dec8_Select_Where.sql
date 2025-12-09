@@ -48,11 +48,7 @@ INSERT INTO orders (customer_id, total, order_date) VALUES
 (1, 85.00, '2023-05-12'),
 (5, 45.00, '2023-06-01');
 
-
--- ==========================================
 -- 2. LEARNING: Examples
--- ==========================================
-
 -- Example A: SELECT specific columns
 -- Goal: See only the names and prices of products.
 SELECT name, price 
@@ -75,14 +71,16 @@ SELECT *
 FROM orders 
 WHERE total > 100;
 
-
--- ==========================================
 -- 3. PRACTICE EXERCISES
+
 -- Write your queries below each comment.
--- ==========================================
 
 -- Exercise 1: Select only the name and category from the products table.
--- SELECT ...
+
+```sql
+SELECT name, category
+FROM products;
+```
 
 -- Exercise 2: Find all products that cost less than (<) $50.
 
@@ -94,5 +92,6 @@ WHERE total > 100;
 
 
 -- Exercise 5: (Challenge) Find all products cost more than OR equal to (>=) $200.
+
 
 
