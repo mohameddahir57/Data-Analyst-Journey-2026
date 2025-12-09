@@ -1,7 +1,5 @@
--- ==========================================
 -- Dec 8 — SELECT + WHERE
 -- SQL Foundations: Selecting Columns & Filtering Rows
--- ==========================================
 
 -- 1. SETUP: Create Tables & Insert Data
 -- Run this section first to create the environment.
@@ -96,4 +94,5 @@ WHERE total > 100;
 
 
 -- Exercise 5: (Challenge) Find all products cost more than OR equal to (>=) $200.
+
 
