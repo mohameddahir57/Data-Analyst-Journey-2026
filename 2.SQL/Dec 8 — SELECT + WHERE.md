@@ -43,7 +43,7 @@ WHERE column_name = value;
 
 ---
 
-## 3. Exercise Solutions
+## 3. Exercise
 
 Here are the solutions to the practice exercises in `Dec8_Select_Where.sql`.
 
@@ -61,5 +61,6 @@ Here are the solutions to the practice exercises in `Dec8_Select_Where.sql`.
 
 ### Exercise 5
 **Goal:** Find all products cost more than OR equal to (>=) $200.
+
 
 
