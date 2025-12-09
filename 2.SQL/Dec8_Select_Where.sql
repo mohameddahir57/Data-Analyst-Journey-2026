@@ -73,8 +73,6 @@ WHERE total > 100;
 
 -- 3. PRACTICE EXERCISES
 
--- Write your queries below each comment.
-
 -- Exercise 1: Select only the name and category from the products table.
 
 ```sql
@@ -84,14 +82,35 @@ FROM products;
 
 -- Exercise 2: Find all products that cost less than (<) $50.
 
+```sql
+SELECT *
+FROM products
+WHERE price < 50;
+```
 
 -- Exercise 3: Find all customers who are from 'Kenya'.
  
+```sql
+SELECT *
+FROM customers
+WHERE country = 'Kenya';
+```
 
 -- Exercise 4: Find all products in the 'Electronics' category.
 
+```sql
+SELECT *
+FROM products
+WHERE category = 'Electronics';
+```
 
 -- Exercise 5: (Challenge) Find all products cost more than OR equal to (>=) $200.
+
+```sql
+SELECT *
+FROM products
+WHERE price >= 200;
+```
 
 
 
