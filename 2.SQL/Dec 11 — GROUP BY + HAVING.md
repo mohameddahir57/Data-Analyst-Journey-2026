@@ -45,7 +45,7 @@ HAVING COUNT(*) > 5;
 7. **LIMIT** (Limit rows)
 
 
- ## 4.PRACTICE EXERCISES
+ ## 4. PRACTICE EXERCISES
  Write your queries below each comment.
 
 Exercise 1: Calculate the average price of products in each category.
@@ -60,4 +60,5 @@ Exercise 3: Find categories that have MORE than 2 products.
 
 Exercise 4: (Challenge) Find the total revenue per Country.
 - Hint: Join customers and orders. Group by Country. Sum the totals.
+
 
