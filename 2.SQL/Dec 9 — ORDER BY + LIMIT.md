@@ -33,3 +33,18 @@ FROM table_name
 ORDER BY column1 DESC
 LIMIT 5;
 ```
+
+## 4. PRACTICE EXERCISES
+
+Exercise 1: List all customers sorted alphabetically by name (A-Z).
+
+Exercise 2: Find the 3 least expensive products.
+
+Exercise 3: Find the single most recently placed order (Sort by date DESC, Limit 1).
+
+Exercise 4: List the top 2 products with the highest price.
+
+Exercise 5: (Challenge) Find the 3 most expensive 'Electronics' products.
+
+Hint: Use WHERE first, then ORDER BY, then LIMIT.
+
