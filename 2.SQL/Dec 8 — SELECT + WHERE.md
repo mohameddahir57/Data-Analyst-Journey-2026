@@ -43,24 +43,45 @@ WHERE column_name = value;
 
 ---
 
-## 3. Exercise
+## 3. Exercise Solutions
 
 Here are the solutions to the practice exercises in `Dec8_Select_Where.sql`.
 
 ### Exercise 1
 **Goal:** Select only the name and category from the products table.
+```sql
+SELECT name, category
+FROM products;
+```
 
 ### Exercise 2
 **Goal:** Find all products that cost less than (<) $50.
+```sql
+SELECT *
+FROM products
+WHERE price < 50;
+```
 
 ### Exercise 3
 **Goal:** Find all customers who are from 'Kenya'.
+```sql
+SELECT *
+FROM customers
+WHERE country = 'Kenya';
+```
 
 ### Exercise 4
 **Goal:** Find all products in the 'Electronics' category.
+```sql
+SELECT *
+FROM products
+WHERE category = 'Electronics';
+```
 
-### Exercise 5
+### Exercise 5 (Challenge)
 **Goal:** Find all products cost more than OR equal to (>=) $200.
-
-
-
+```sql
+SELECT *
+FROM products
+WHERE price >= 200;
+```
