@@ -3,9 +3,9 @@
 ## WEEK 2 — SQL Foundations (Dec 8–14)
 
 - [x] Dec 8 — SELECT + WHERE
-- [ ] Dec 9 — ORDER BY + LIMIT
-- [ ] Dec 10 — JOINs (INNER, LEFT, RIGHT)
-- [ ] Dec 11 — GROUP BY + HAVING
+- [x] Dec 9 — ORDER BY + LIMIT
+- [x] Dec 10 — JOINs (INNER, LEFT, RIGHT)
+- [x] Dec 11 — GROUP BY + HAVING
 - [ ] Dec 12 — Subqueries
 - [ ] Dec 13 — Aggregation Practice
 - [ ] Dec 14 — Project: Customer Purchase SQL Analysis
@@ -19,3 +19,4 @@
 - [ ] Dec 19 — Data Modeling (ERD Basics)
 - [ ] Dec 20 — Advanced SQL Practice
 - [ ] Dec 21 — Project: Employee HR Dataset Analysis
+
