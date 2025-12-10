@@ -64,7 +64,8 @@ M products;
 **Goal:** Find all products in the 'Electronics' category.
 
 
-### Exercise 5 (Challenge)
+### Exercise 5 
 **Goal:** Find all products cost more than OR equal to (>=) $200.
+
 
 
