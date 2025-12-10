@@ -48,3 +48,24 @@ Think of Venn Diagrams:
 - **INNER JOIN**: The intersection (overlap) properly.
 - **LEFT JOIN**: The entire Left circle + the overlap.
 - **RIGHT JOIN**: The entire Right circle + the overlap.
+
+## 4. PRACTICE EXERCISES
+
+
+ Exercise 1: Show the Order ID, Order Date, and the Name of the customer who placed it.
+ - Use INNER JOIN.
+
+ Exercise 2: Show ALL customers and the Date of their orders.
+ - Use LEFT JOIN. Include customers with no orders.
+ 
+ Exercise 3: List the Customer Name, Product purchased (assume a column exists? Wait, we don't have an order_items table yet).
+ - Let's stick to simple joins. 
+ - Challenge: List the Name of customers from 'Somalia' and their Order Totals.
+ - Only show those from Somalia.
+
+Exercise 4: Find the total number of orders placed by EACH customer.
+- Hint: This needs GROUP BY which is tomorrow's topic, so let's try something simpler.
+- Review Challenge: List all orders sorted by Order Date (newest first), showing the Customer Name.
+
+
+ 
