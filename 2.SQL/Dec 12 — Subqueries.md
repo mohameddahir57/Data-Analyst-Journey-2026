@@ -14,8 +14,6 @@ FROM table_name
 WHERE column_name OPERATOR (SELECT column_name FROM table_name WHERE ...);
 ```
 
----
-
 ## 2. Types of Subqueries
 
 ### A. Scalar Subqueries
@@ -51,8 +49,6 @@ FROM (
 ) AS customer_totals;
 ```
 
----
-
 ## 3. Correlated Subqueries
 A subquery that deals with the **outer query** for its values. It is executed once for **each row** processed by the outer query.
 
@@ -66,8 +62,6 @@ WHERE price > (
     WHERE p2.category = p1.category
 );
 ```
-
----
 
 ## 4. EXISTS and NOT EXISTS
 Used to test for the existence of any record in a subquery.
@@ -83,9 +77,8 @@ WHERE EXISTS (
 );
 ```
 
----
-
 ## Practice Goals
 1. Understand when to use a subquery vs. a JOIN.
 2. Write queries using `IN`, `EXISTS`, and scalar comparisons.
 3. Understand the concept of Derived Tables in the `FROM` clause.
+
