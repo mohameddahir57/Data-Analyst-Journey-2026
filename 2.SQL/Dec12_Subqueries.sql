@@ -90,16 +90,28 @@ FROM (
 
 -- Exercise 1: Find products that cost LESS than the average price of 'Electronics'.
 -- Hint: Subquery should calculate AVG(price) WHERE category = 'Electronics'.
+SELECT name, price 
+FROM products 
+WHERE price < (SELECT AVG(price) FROM products WHERE category = 'Electronics');
 
 
 -- Exercise 2: Find the names of customers who have placed an order worth MORE than $300.
 -- Hint: Use `IN` with a subquery on the orders table.
+SELECT name 
+FROM customers 
+WHERE id IN (SELECT customer_id FROM orders WHERE total > 300);
 
 
 -- Exercise 3: (Challenge) Find the product with the HIGHEST price.
 -- Hint: WHERE price = (SELECT MAX(price)...)
+SELECT name, price 
+FROM products 
+WHERE price = (SELECT MAX(price) FROM products);
 
 
 -- Exercise 4: List all products that are more expensive than 'Desk Chair'.
 -- Hint: Subquery finds the price of 'Desk Chair'.
+SELECT name, price 
+FROM products 
+WHERE price > (SELECT price FROM products WHERE name = 'Desk Chair');
 
