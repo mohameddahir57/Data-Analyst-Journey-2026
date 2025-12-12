@@ -82,3 +82,21 @@ WHERE EXISTS (
 2. Write queries using `IN`, `EXISTS`, and scalar comparisons.
 3. Understand the concept of Derived Tables in the `FROM` clause.
 
+
+## 5. PRACTICE EXERCISES
+
+Exercise 1: Find products that cost LESS than the average price of 'Electronics'.
+- Hint: Subquery should calculate AVG(price) WHERE category = 'Electronics'.
+
+
+Exercise 2: Find the names of customers who have placed an order worth MORE than $300.
+- Hint: Use `IN` with a subquery on the orders table.
+
+
+Exercise 3: (Challenge) Find the product with the HIGHEST price.
+- Hint: WHERE price = (SELECT MAX(price)...)
+
+
+Exercise 4: List all products that are more expensive than 'Desk Chair'.
+- Hint: Subquery finds the price of 'Desk Chair'.
+
