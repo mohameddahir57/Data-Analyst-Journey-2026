@@ -7,8 +7,8 @@
 - [x] Dec 10 — JOINs (INNER, LEFT, RIGHT)
 - [x] Dec 11 — GROUP BY + HAVING
 - [x] Dec 12 — Subqueries
-- [ ] Dec 13 — Aggregation Practice
-- [ ] Dec 14 — Project: Customer Purchase SQL Analysis
+- [x] Dec 13 — Aggregation Practice
+- [x] Dec 14 — Project: Customer Purchase SQL Analysis
 
 ## WEEK 3 — SQL Advanced (Dec 15–21)
 
@@ -19,5 +19,6 @@
 - [ ] Dec 19 — Data Modeling (ERD Basics)
 - [ ] Dec 20 — Advanced SQL Practice
 - [ ] Dec 21 — Project: Employee HR Dataset Analysis
+
 
 
