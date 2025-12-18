@@ -19,9 +19,7 @@ CREATE TABLE LargeUsers (
 -- For this practice, we'll imagine this table is populated with 1 Million rows.
 -- INSERT INTO LargeUsers ... (Skipped for brevity)
 
---------------------------------------------------------------------------------
 -- 2. CREATE INDEX EXAMPLES
---------------------------------------------------------------------------------
 
 -- Scenario: We frequently search for users by their Email addresses.
 -- Query: SELECT * FROM LargeUsers WHERE Email = 'john.doe@example.com';
@@ -40,9 +38,7 @@ CREATE INDEX idx_users_email ON LargeUsers(Email);
 CREATE INDEX idx_users_country_reputation 
 ON LargeUsers(Country, ReputationScore);
 
---------------------------------------------------------------------------------
 -- 3. QUERY OPTIMIZATION & SARGABLE QUERIES
---------------------------------------------------------------------------------
 
 /* 
    SARGABLE = Search ARGument ABLE (Can use the index)
@@ -66,3 +62,4 @@ SELECT * FROM LargeUsers WHERE Username LIKE 'Admin%';
 -- 4. CLEANUP
 DROP INDEX idx_users_email ON LargeUsers;
 DROP TABLE LargeUsers;
+
