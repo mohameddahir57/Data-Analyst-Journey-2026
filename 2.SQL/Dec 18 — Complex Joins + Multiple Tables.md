@@ -71,7 +71,7 @@ SELECT city FROM suppliers;
 ```
 
 
-## 5. EXERCISES
+## 5. PRACTICE EXERCISES
 
 ### Ex 1: MULTI-TABLE JOIN
 - List the Customer Name, Product Name, and Order Date for all items sold in 2024.
@@ -95,4 +95,5 @@ SELECT city FROM suppliers;
 - List all Customers who have bought 'Electronics' AND 'Apparel'.
 - Hint: You might need to join tables and use INTERSECT, or use self-joins on a subquery.
 - A simpler approach using existing tools:
+
     
