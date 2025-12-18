@@ -15,10 +15,11 @@
 - [x] Dec 15 — Window Functions (OVER, PARTITION BY)
 - [x] Dec 16 — Common Table Expressions (CTE / WITH)
 - [x] Dec 17 — Index Basics & Query Optimization
-- [ ] Dec 18 — Complex Joins + Multiple Tables
+- [x] Dec 18 — Complex Joins + Multiple Tables
 - [ ] Dec 19 — Data Modeling (ERD Basics)
 - [ ] Dec 20 — Advanced SQL Practice
 - [ ] Dec 21 — Project: Employee HR Dataset Analysis
+
 
 
 
