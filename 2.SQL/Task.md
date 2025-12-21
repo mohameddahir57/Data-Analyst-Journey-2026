@@ -16,9 +16,10 @@
 - [x] Dec 16 — Common Table Expressions (CTE / WITH)
 - [x] Dec 17 — Index Basics & Query Optimization
 - [x] Dec 18 — Complex Joins + Multiple Tables
-- [ ] Dec 19 — Data Modeling (ERD Basics)
-- [ ] Dec 20 — Advanced SQL Practice
-- [ ] Dec 21 — Project: Employee HR Dataset Analysis
+- [x] Dec 19 — Data Modeling (ERD Basics)
+- [x] Dec 20 — Advanced SQL Practice
+- [x] Dec 21 — Project: Employee HR Dataset Analysis
+
 
 
 
