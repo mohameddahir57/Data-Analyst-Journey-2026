@@ -1,0 +1,16 @@
+EmployeeID,FullName,Department,Region,Salary,HireDate
+E101,Ahmed Mohamed,Sales,Banadir,55000,2020-01-15
+E102,Fadumo Ali,Marketing,Puntland,62000,2019-05-23
+E103,Abdi Hassan,IT,Jubaland,75000,2021-08-10
+E104,Amina Yusuf,Sales,Somaliland,58000,2022-03-01
+E105,Omar Ibrahim,HR,Banadir,50000,2018-11-30
+E106,Muna Farah,IT,Galmudug,72000,2020-07-19
+E107,Khadra Hussein,Marketing,South West,60000,2019-12-05
+E108,Yasin Abdi,Sales,Banadir,56000,2023-02-14
+E109,Hodan Osman,HR,Hirshabelle,51000,2021-06-25
+E110,Liban Jama,IT,Puntland,78000,2019-09-12
+E111,Sahra Noor,Sales,Jubaland,59000,2022-11-08
+E112,Mohamed Dahir,Marketing,Somaliland,63000,2020-04-30
+E113,Bilal Warsame,IT,Banadir,76000,2021-01-18
+E114,Maryan Gedi,HR,Galmudug,52000,2018-08-22
+E115,Hassan Sheikh,Sales,South West,57000,2023-05-05
