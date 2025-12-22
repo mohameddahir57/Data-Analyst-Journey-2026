@@ -12,6 +12,7 @@ While `VLOOKUP` and `XLOOKUP` are great, `INDEX` + `MATCH` is the classic "power
 
 **Example**:
 If A1:A5 contains specific names, `=INDEX(A1:A5, 3)` returns the name in the 3rd cell.
+![image alt](Image/TheINDEXFunction.png)
 
 ## 2. The MATCH Function
 **Concept**: Returns the *position* (number) of an item in a range.  
@@ -23,6 +24,7 @@ If A1:A5 contains specific names, `=INDEX(A1:A5, 3)` returns the name in the 3rd
 
 **Example**:
 `=MATCH("Amina Yusuf", B1:B10, 0)` might return `5` if Amina Yusuf is in the 5th cell.
+![image alt](Image/TheMATCHFunction.png)
 
 ## 3. The Power Combo: INDEX + MATCH
 Combine them! use MATCH to find the *row number* for INDEX.
@@ -31,6 +33,7 @@ Combine them! use MATCH to find the *row number* for INDEX.
 ```excel
 =INDEX(return_range, MATCH(lookup_value, lookup_range, 0))
 ```
+![image alt](Image/ThePowerCombo.png)
 
 **Why use it?**
 1.  **Left Lookup**: Can look up values to the left of the lookup column (VLOOKUP cannot).
@@ -48,6 +51,7 @@ Combine them! use MATCH to find the *row number* for INDEX.
 **Example**:
 `=FILTER(A2:C10, C2:C10="Sales", "None")`
 Returns all rows from A2:C10 where column B is "Sales".
+![image alt](Image/TheFILTERFunction.png)
 
 ## Practice Exercises
 
@@ -61,31 +65,37 @@ Returns all rows from A2:C10 where column B is "Sales".
     1.  Use MATCH to find the row of `E107` in column A.
     2.  Use INDEX to retrieve the value from column E (Salary) using that row.
 *   **Formula**: `=INDEX(E:E, MATCH("E107", A:A, 0))`
+![image alt](Image/E1.png)
 
 ### Exercise 2: Left Lookup (Reverse)
 *   **Goal**: Find the **ID** of the employee named "Muna Farah".
 *   **Challenge**: Name is in Col B, ID is in Col A (Left). VLOOKUP can't do this easily.
 *   **Formula**: `=INDEX(A:A, MATCH("Muna Farah", B:B, 0))`
+![image alt](Image/E2.png)
 
 ### Exercise 3: 2-Way Lookup (Index + Match + Match)
 *   **Goal**: Create a dynamic lookup where you type an ID in one cell and a "Header Name" (like Salary, Dept) in another, and it finds the value.
 *   **Hint**: Use one MATCH for row, another MATCH for column.
 *   **Formula**: `=INDEX(A1:F16, MATCH("E105", A1:A16, 0), MATCH("Region", A1:F1, 0))`
+![image alt](Image/E3.png)
 
 ### Exercise 4: Simple FILTER
 *   **Goal**: Return a list of all employees in the **"IT"** Department.
 *   **Formula**: `=FILTER(A2:F16, C2:C16="IT", "No results")`
+![image alt](Image/E4.png)
 
 ### Exercise 5: Complex FILTER (Multiple Criteria)
 *   **Goal**: Find all employees in **"Sales"** who earn **> 55000**.
 *   **Hint**: Use `*` for AND logic.
 *   **Formula**: `=FILTER(A2:F16, (C2:C16="Sales") * (E2:E16>55000))`
+![image alt](Image/E5.png)
 
 ## Pro Tip
 `XLOOKUP` (Day 4) effectively replaced `INDEX+MATCH` for most single-value lookups, but understanding `INDEX+MATCH` is crucial for:
 1.  Legacy spreadsheets.
 2.  Complex 2D lookups (Matrix lookups).
 3.  Situations requiring complex array manipulations.
+
 
 
 
