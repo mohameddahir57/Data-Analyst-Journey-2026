@@ -11,7 +11,7 @@ While `VLOOKUP` and `XLOOKUP` are great, `INDEX` + `MATCH` is the classic "power
 *   **Column_num** (Optional): The column number in the array.
 
 **Example**:
-If A1:A5 contains specific names, `=INDEX(A1:A5, 3)` returns the name in the 3rd cell.
+If A2:A6 contains specific names, `=INDEX(A2:A6, 3)` returns the name in the 3rd cell.
 
 ## 2. The MATCH Function
 **Concept**: Returns the *position* (number) of an item in a range.  
@@ -86,4 +86,5 @@ Returns all rows from A2:C10 where column B is "Sales".
 1.  Legacy spreadsheets.
 2.  Complex 2D lookups (Matrix lookups).
 3.  Situations requiring complex array manipulations.
+
 
