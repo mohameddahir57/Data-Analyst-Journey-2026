@@ -37,8 +37,6 @@ Combine them! use MATCH to find the *row number* for INDEX.
 2.  **Resilience**: Adding or deleting columns won't break it (unlike VLOOKUP's static column index).
 3.  **Speed**: Often faster on huge datasets.
 
----
-
 ## 4. The FILTER Function (Office 365 / Excel 2021+)
 **Concept**: Filters a range of data based on criteria and returns *all* matching results (spills into adjacent cells).  
 **Syntax**: `=FILTER(array, include, [if_empty])`
@@ -50,8 +48,6 @@ Combine them! use MATCH to find the *row number* for INDEX.
 **Example**:
 `=FILTER(A2:C10, B2:B10="Sales", "None")`
 Returns all rows from A2:C10 where column B is "Sales".
-
----
 
 ## Practice Exercises
 
@@ -85,10 +81,9 @@ Returns all rows from A2:C10 where column B is "Sales".
 *   **Hint**: Use `*` for AND logic.
 *   **Formula**: `=FILTER(A2:F16, (C2:C16="Sales") * (E2:E16>55000))`
 
----
-
 ## Pro Tip
 `XLOOKUP` (Day 4) effectively replaced `INDEX+MATCH` for most single-value lookups, but understanding `INDEX+MATCH` is crucial for:
 1.  Legacy spreadsheets.
 2.  Complex 2D lookups (Matrix lookups).
 3.  Situations requiring complex array manipulations.
+
