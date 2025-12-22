@@ -42,11 +42,11 @@ Combine them! use MATCH to find the *row number* for INDEX.
 **Syntax**: `=FILTER(array, include, [if_empty])`
 
 *   **Array**: The range to filter.
-*   **Include**: The logical test (e.g., `B2:B20="Sales"`).
+*   **Include**: The logical test (e.g., `C2:C10="Sales"`).
 *   **If_empty**: Text to show if no results found (e.g., "No match").
 
 **Example**:
-`=FILTER(A2:C10, B2:B10="Sales", "None")`
+`=FILTER(A2:C10, C2:C10="Sales", "None")`
 Returns all rows from A2:C10 where column B is "Sales".
 
 ## Practice Exercises
@@ -86,6 +86,7 @@ Returns all rows from A2:C10 where column B is "Sales".
 1.  Legacy spreadsheets.
 2.  Complex 2D lookups (Matrix lookups).
 3.  Situations requiring complex array manipulations.
+
 
 
 
