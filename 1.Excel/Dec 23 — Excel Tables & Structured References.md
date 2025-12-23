@@ -10,6 +10,8 @@ Excel Tables (Ctrl + T) are more than just fancy formatting. They transform a ra
 
 You now have a "Table" (default name `Table1`). You can rename it in the **Table Design** tab (e.g., `Inventory`).
 
+![image alt](Image/Table.png)
+
 ## 2. Key Features
 *   **Auto-Expansion**: If you type data in the row below the table, the table automatically expands to include it.
 *   **Total Row**: Check the "Total Row" box in the **Table Design** tab to instantly add sums, averages, counts, etc., at the bottom.
@@ -66,4 +68,3 @@ Slicers are visual buttons for filtering.
     1.  Go to the bottom of the table.
     2.  Add a new item: `P016, Smart Watch, Electronics, Banadir, 150, 10`.
     3.  Notice how the Table formatting and formulas (Total Value) automatically extend to this new row.
-
