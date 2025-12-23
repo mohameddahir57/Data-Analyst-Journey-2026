@@ -33,8 +33,6 @@ Slicers are visual buttons for filtering.
 3.  Choose a column (e.g., "Region").
 4.  Click buttons to filter the table instantly.
 
----
-
 ## Practice Exercises
 
 **Setup**:
@@ -68,3 +66,4 @@ Slicers are visual buttons for filtering.
     1.  Go to the bottom of the table.
     2.  Add a new item: `P016, Smart Watch, Electronics, Banadir, 150, 10`.
     3.  Notice how the Table formatting and formulas (Total Value) automatically extend to this new row.
+
