@@ -1,0 +1,16 @@
+ProductID,ItemName,Category,Region,UnitPrice,QuantityStock
+P001,Laptop Dell XPS,Electronics,Banadir,1200,50
+P002,Samsung Galaxy S23,Phones,Puntland,900,120
+P003,HP OfficeJet Printer,Office,Somaliland,250,30
+P004,iPhone 14,Phones,Banadir,1100,80
+P005,Sony Headphones,Accessories,Jubaland,150,200
+P006,MacBook Air,Electronics,Galmudug,1300,40
+P007,Logitech Mouse,Accessories,Banadir,25,300
+P008,Samsung TV 55",Electronics,South West,600,60
+P009,Office Chair,Office,Banadir,120,100
+P010,iPad Air,Electronics,Puntland,700,90
+P011,Cannon Camera,Electronics,Somaliland,850,25
+P012,USB-C Cable,Accessories,Hirshabelle,15,500
+P013,Monitor LG 27",Electronics,Banadir,300,75
+P014,Desk Lamp,Office,Puntland,45,150
+P015,Mechanical Keyboard,Accessories,Banadir,80,60
