@@ -25,8 +25,6 @@ Instead of just "Sum of Sales", show context.
     *   **Difference From**: Growth from previous month.
     *   **Running Total**: Cumulative sum year-to-date.
 
----
-
 ## Practice Exercises
 
 **Setup**:
@@ -61,3 +59,4 @@ Instead of just "Sum of Sales", show context.
     1.  **PivotTable Analyze** > **Insert Slicer** > Check `Region`.
     2.  **PivotTable Analyze** > **Insert Timeline** > Check `Date`.
     3.  Use the Timeline to show only "Q1" (Jan-Mar) sales.
+
