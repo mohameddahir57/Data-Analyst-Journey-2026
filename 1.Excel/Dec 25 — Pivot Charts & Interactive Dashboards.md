@@ -25,8 +25,6 @@ By default, a Slicer only filters the Pivot Table it was created from. You can m
 4.  Check the boxes for *all* the Pivot Tables you want to filter.
 5.  Click OK. Now, clicking "EVC Plus" updates ALL charts instantly!
 
----
-
 ## Step-by-Step Dashboard Project
 
 **Setup**:
@@ -57,3 +55,4 @@ By default, a Slicer only filters the Pivot Table it was created from. You can m
 
 ### Step 5: Test It!
 *   Click "EVC Plus" on the slicer. Watch all three charts update to show only mobile money sales!
+
