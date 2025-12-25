@@ -1,0 +1,16 @@
+InvoiceID,Branch,City,Date,CustomerType,ProductLine,UnitPrice,Quantity,Total,Payment
+INV-001,Branch A,Mogadishu,2023-01-05,Member,Food,10.5,5,52.5,EVC Plus
+INV-002,Branch B,Hargeisa,2023-01-06,Normal,Electronics,50,2,100,Cash
+INV-003,Branch A,Mogadishu,2023-01-08,Normal,Fashion,25,3,75,EVC Plus
+INV-004,Branch C,Kismayo,2023-01-12,Member,Home,40,1,40,Cash
+INV-005,Branch B,Hargeisa,2023-01-15,Normal,Food,12,10,120,EVC Plus
+INV-006,Branch A,Mogadishu,2023-01-20,Member,Electronics,800,1,800,EVC Plus
+INV-007,Branch C,Kismayo,2023-02-02,Normal,Fashion,30,2,60,Cash
+INV-008,Branch A,Mogadishu,2023-02-05,Normal,Health,15,4,60,EVC Plus
+INV-009,Branch B,Hargeisa,2023-02-10,Member,Electronics,120,2,240,EVC Plus
+INV-010,Branch C,Kismayo,2023-02-18,Normal,Food,8,20,160,Cash
+INV-011,Branch A,Mogadishu,2023-03-01,Member,Fashion,45,2,90,EVC Plus
+INV-012,Branch B,Hargeisa,2023-03-05,Normal,Home,60,1,60,Cash
+INV-013,Branch C,Kismayo,2023-03-12,Member,Health,20,5,100,EVC Plus
+INV-014,Branch A,Mogadishu,2023-03-20,Normal,Electronics,400,1,400,EVC Plus
+INV-015,Branch B,Hargeisa,2023-03-25,Member,Food,15,6,90,Cash
