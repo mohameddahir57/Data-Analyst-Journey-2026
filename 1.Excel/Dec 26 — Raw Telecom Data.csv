@@ -1,0 +1,12 @@
+REPORT GENERATED: 2023-12-21,,,,,
+Data Source: Legacy System,,,,,
+ID,Customer_Info,Plan,Usage_Data,Status,Join_Date
+1001,Ahmed Ali - Mogadishu,Gold,50GB | 200min,Active,2022/01/15
+1002,Fadumo Hassan - Hargeisa,Silver,10GB | 50min,Inactive,12-May-2021
+,,,,,
+1003,Abdi Noor - Puntland,Gold,60GB | 300min,Active,2023.03.10
+1004,Mariam Yusuf - Banadir,Bronze,5GB | 20min,Active,2023-06-25
+1005,Hassan Gedi - Kismayo,Silver,15GB | 100min,Inactive,2020/11/30
+1006,Leyla Warsame - Galmudug,Gold,45GB | 250min,Active,Jan 15 2022
+,,,,,
+1007,Omar Sheikh - Mogadishu,Bronze,2GB | 0min,Active,2023/09/12
