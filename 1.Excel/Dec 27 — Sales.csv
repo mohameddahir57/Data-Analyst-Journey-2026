@@ -1,0 +1,11 @@
+SortID,Date,ProductID,Quantity,Region
+1,2023-01-05,P100,500,Banadir
+2,2023-01-06,P103,200,Puntland
+3,2023-01-10,P101,5,Somaliland
+4,2023-01-12,P100,300,Banadir
+5,2023-01-20,P102,100,Galmudug
+6,2023-02-05,P104,50,Banadir
+7,2023-02-15,P101,10,Puntland
+8,2023-03-01,P105,200,Banadir
+9,2023-03-10,P100,400,South West
+10,2023-03-20,P103,150,Somaliland
