@@ -11,14 +11,15 @@
 - [x] **Project**: Sales Data Cleaning <!-- id: 7 -->
 
 ## Week 4: Advanced Excel
-- [ ] **Day 22**: Advanced Lookups (INDEX+MATCH, FILTER) <!-- id: 8 -->
-- [ ] **Day 23**: Excel Tables & Structured References <!-- id: 9 -->
-- [ ] **Day 24**: Advanced Pivot Tables <!-- id: 10 -->
-- [ ] **Day 25**: Pivot Charts & Interactive Dashboards <!-- id: 11 -->
-- [ ] **Day 26**: Power Query <!-- id: 12 -->
-- [ ] **Day 27**: Power Pivot <!-- id: 13 -->
-- [ ] **Day 28**: Intro to DAX <!-- id: 14 -->
+- [x] **Day 22**: Advanced Lookups (INDEX+MATCH, FILTER) <!-- id: 8 -->
+- [x] **Day 23**: Excel Tables & Structured References <!-- id: 9 -->
+- [x] **Day 24**: Advanced Pivot Tables <!-- id: 10 -->
+- [x] **Day 25**: Pivot Charts & Interactive Dashboards <!-- id: 11 -->
+- [x] **Day 26**: Power Query <!-- id: 12 -->
+- [x] **Day 27**: Power Pivot <!-- id: 13 -->
+- [] **Day 28**: Intro to DAX <!-- id: 14 -->
 - [ ] **Project**: Business Dashboard <!-- id: 15 --> 
+
 
 
 
