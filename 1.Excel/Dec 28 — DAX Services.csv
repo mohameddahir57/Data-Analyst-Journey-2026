@@ -1,0 +1,6 @@
+ServiceID,ServiceName,RatePerKg
+S001,Sea Freight,2.5
+S002,Air Cargo,15.0
+S003,Road Transport,1.2
+S004,Warehousing,0.5
+S005,Customs Clearance,5.0

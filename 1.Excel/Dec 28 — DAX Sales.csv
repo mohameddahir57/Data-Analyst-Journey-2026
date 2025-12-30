@@ -1,0 +1,11 @@
+Date,OrderID,ServiceID,Quantity,Region
+2023-01-10,ORD-101,S001,1000,Mogadishu Port
+2023-01-12,ORD-102,S002,200,Aden Adde Airport
+2023-01-15,ORD-103,S003,5000,Berbera Corridor
+2023-01-20,ORD-104,S001,800,Mogadishu Port
+2023-02-05,ORD-105,S005,1000,Bosaso Port
+2023-02-10,ORD-106,S002,150,Kismayo Airport
+2023-02-18,ORD-107,S003,3000,Beledweyne
+2023-03-01,ORD-108,S004,1000,Mogadishu Warehouse
+2023-03-05,ORD-109,S001,1200,Berbera Port
+2023-03-12,ORD-110,S002,300,Aden Adde Airport
