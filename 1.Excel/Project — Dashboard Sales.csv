@@ -1,0 +1,11 @@
+Date,BranchID,Product,Revenue
+2023-01-05,B001,Electronics,15000
+2023-01-08,B002,Food Stuffs,8000
+2023-01-12,B003,Construction,25000
+2023-01-20,B001,Electronics,12000
+2023-02-05,B004,Textiles,6000
+2023-02-14,B005,Food Stuffs,18000
+2023-02-28,B002,Construction,22000
+2023-03-05,B001,Electronics,30000
+2023-03-15,B003,Construction,15000
+2023-03-22,B001,Textiles,5000
