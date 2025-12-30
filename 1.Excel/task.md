@@ -17,8 +17,9 @@
 - [x] **Day 25**: Pivot Charts & Interactive Dashboards <!-- id: 11 -->
 - [x] **Day 26**: Power Query <!-- id: 12 -->
 - [x] **Day 27**: Power Pivot <!-- id: 13 -->
-- [] **Day 28**: Intro to DAX <!-- id: 14 -->
-- [ ] **Project**: Business Dashboard <!-- id: 15 --> 
+- [x] **Day 28**: Intro to DAX <!-- id: 14 -->
+- [x] **Project**: Business Dashboard <!-- id: 15 --> 
+
 
 
 
