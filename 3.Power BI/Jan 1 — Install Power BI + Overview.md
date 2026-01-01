@@ -1,6 +1,6 @@
 # Jan 1 — Install Power BI + Overview
 
-## 🎯 Goal
+##  Goal
 Understand what Power BI is, install the desktop version, and get familiar with the interface so you can start importing data.
 
 ## 1. What is Power BI?
@@ -9,7 +9,7 @@ Power BI is a collection of software services, apps, and connectors that work to
 - **Power BI Desktop**: A free Windows application we will use to build reports.
 - **Power BI Service**: An online SaaS (Software as a Service) service for publishing and sharing.
 - **Power BI Mobile**: Apps for Windows, iOS, and Android.
-
+  
 ## 2. Installation
 If you haven't installed it yet:
 1.  Go to the [Microsoft Store](ms-windows-store://pdp/?productid=9NTXR16HNW1T) (Recommended for automatic updates) or download from the [web](https://powerbi.microsoft.com/en-us/desktop/).
@@ -19,13 +19,13 @@ If you haven't installed it yet:
 ## 3. Understanding the Interface (The "Big Three" Views)
 On the left sidebar, you will see three main icons. These are your workspace views:
 
-### 📊 1. Report View
+###  1. Report View
 This is the default view where you build your visuals.
 - **Canvas**: The big white space where you drag charts.
 - **Visualizations Pane**: Choose chart types (Bar, Line, Pie, etc.).
 - **Data Pane**: Your tables and columns appear here.
 
-### 🔢 2. Table View (Data View)
+###  2. Table View (Data View)
 Looks like Excel. You see the actual data rows and columns here.
 - Useful for checking if data loaded correctly.
 - You cannot edit cells here (unlike Excel), but you can view them.
@@ -34,9 +34,7 @@ Looks like Excel. You see the actual data rows and columns here.
 Shows your tables as blocks with lines connecting them.
 - This is where you manage **Relationships** between tables (e.g., connecting a `Sales` table to a `Products` table).
 
----
-
-## 🛠️ Practical Exercise: First Import
+##  Practical Exercise: First Import
 Let's test the interface by loading a simple file.
 
 ### Step 1: Get Data
@@ -58,7 +56,8 @@ Once loaded:
 3.  Drag the `Sales` column onto the same list.
 4.  Power BI should automatically create a table or chart showing Sales by Product.
 
-## ✅ Checklist
+##  Checklist
 - [x] Power BI Desktop is installed.
 - [x] I can navigation between Report, Table, and Model views.
 - [x] I successfully loaded the practice CSV.
+
