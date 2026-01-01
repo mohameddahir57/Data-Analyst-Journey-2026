@@ -2,17 +2,17 @@
 
 ## WEEK 1 — POWER BI BASICS
 - [x] Jan 1 — Install Power BI + Overview
-- [x] Jan 2 — Import Data
-- [x] Jan 3 — Power Query Basics
-- [x] Jan 4 — Table Relationships
-- [x] Jan 5–7 — Mini Sales Dashboard
+- [] Jan 2 — Import Data
+- [] Jan 3 — Power Query Basics
+- [] Jan 4 — Table Relationships
+- [] Jan 5–7 — Mini Sales Dashboard
 
 ## WEEK 2 — VISUALIZATIONS
-- [x] Jan 8 — Bar & Line Charts
-- [x] Jan 9 — Tables & Matrices
-- [x] Jan 10 — Slicers & Filters
-- [x] Jan 11 — Cards & KPIs
-- [x] Jan 12–14 — Customer Insights Dashboard
+- [] Jan 8 — Bar & Line Charts
+- [] Jan 9 — Tables & Matrices
+- [] Jan 10 — Slicers & Filters
+- [] Jan 11 — Cards & KPIs
+- [] Jan 12–14 — Customer Insights Dashboard
 
 ## WEEK 3 — DAX
 - [ ] Jan 15 — Calculated Columns & Measures
@@ -23,3 +23,4 @@
 
 ## WEEK 4 — FULL PORTFOLIO PROJECT
 - [ ] Jan 22–31 — Build a Complete BI Dashboard
+
