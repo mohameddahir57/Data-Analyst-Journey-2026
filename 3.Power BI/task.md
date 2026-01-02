@@ -2,7 +2,7 @@
 
 ## WEEK 1 — POWER BI BASICS
 - [x] Jan 1 — Install Power BI + Overview
-- [] Jan 2 — Import Data
+- [x] Jan 2 — Import Data
 - [] Jan 3 — Power Query Basics
 - [] Jan 4 — Table Relationships
 - [] Jan 5–7 — Mini Sales Dashboard
@@ -23,4 +23,5 @@
 
 ## WEEK 4 — FULL PORTFOLIO PROJECT
 - [ ] Jan 22–31 — Build a Complete BI Dashboard
+
 
