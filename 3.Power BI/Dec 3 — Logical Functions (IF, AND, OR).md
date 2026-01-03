@@ -126,8 +126,6 @@ Sometimes you need to check multiple conditions. You can nest `IF` functions ins
 ```
 *Note: The `TRUE` at the end acts as a "catch-all" or "else" condition.*
 
----
-
 ## Hands-on Practice: Step-by-Step
 
 Copy these tables into Excel to practice.
@@ -144,7 +142,6 @@ Copy these tables into Excel to practice.
 
 *   **Goal:** In column C, display "Met Target" if Sales > 10000, otherwise "Missed".
 *   **Formula for C2:** `=IF(B2>10000, "Met Target", "Missed")`
-![image alt](Image/IF.png)
 *   **Expected Result:**
     *   Mohamed: Met Target
     *   Zakia: Missed
@@ -162,7 +159,6 @@ Copy these tables into Excel to practice.
 
 *   **Goal:** In column D, check if they pass.
 *   **Formula for E11:** `=IF(AND(C11>=50, D11>=80%), "Pass", "Fail")`
-![image alt](Image/AND.png)
 *   **Expected Result:**
     *   Hodan: Pass (Both true)
     *   Hani: Fail (Score too low)
@@ -180,13 +176,12 @@ Copy these tables into Excel to practice.
 
 *   **Goal:** In column D, display "Yes" if eligible, "No" if not.
 *   **Formula for E21:** `=IF(OR(C21="VIP", D21>100), "Yes", "No")`
-![image alt](Image/OR.png)
 *   **Expected Result:**
     *   Nasro: Yes (Is VIP)
     *   Mohamud: Yes (Spend > 100)
     *   Safia: No (Neither condition met)
 
----
 ## End of Day 3
+
 
 **Day 4 → Lookup Functions (VLOOKUP, XLOOKUP)**
