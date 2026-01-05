@@ -1,0 +1,6 @@
+ProductID,ProductName,Category,UnitCost,UnitPrice
+P001,Laptop Pro,Electronics,800,1200
+P002,Wireless Mouse,Accessories,10,30
+P003,LED Monitor,Electronics,200,300
+P004,USB Cable,Accessories,5,20
+P005,Tablet,Electronics,500,800
