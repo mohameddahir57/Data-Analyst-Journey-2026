@@ -10,7 +10,7 @@
 ## WEEK 2 — VISUALIZATIONS
 - [x] Jan 8 — Bar & Line Charts
 - [x] Jan 9 — Tables & Matrices
-- [] Jan 10 — Slicers & Filters
+- [x] Jan 10 — Slicers & Filters
 - [] Jan 11 — Cards & KPIs
 - [] Jan 12–14 — Customer Insights Dashboard
 
@@ -23,6 +23,7 @@
 
 ## WEEK 4 — FULL PORTFOLIO PROJECT
 - [ ] Jan 22–31 — Build a Complete BI Dashboard
+
 
 
 
