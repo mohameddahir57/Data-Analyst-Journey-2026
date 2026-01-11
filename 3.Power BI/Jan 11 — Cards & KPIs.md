@@ -41,9 +41,10 @@ I have created `Jan11_KPI.csv`.
 - **Red** = Actual < Target.
 - **Background**: The squiggly line shows the history over the months.
 
-## ✅ Checklist
+##  Checklist
 - [ ] Created a standard Card.
 - [ ] Created a Multi-row Card.
 - [ ] Built a KPI visual with Value, Trend, and Target.
 - [ ] Understood why the text turned Green or Red.
+
 
