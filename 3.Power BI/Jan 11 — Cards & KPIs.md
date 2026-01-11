@@ -1,6 +1,6 @@
 # Jan 11 — Cards & KPIs
 
-## 🎯 Goal
+##  Goal
 Learn how to display "Headline Numbers" (Total Revenue, Total Profit) and track performance against a goal (KPI).
 
 ## 1. Card Visual
@@ -15,7 +15,7 @@ Learn how to display "Headline Numbers" (Total Revenue, Total Profit) and track 
   3.  **Target**: What we wanted (e.g., $4M Goal).
 - **Color Coding**: Automatically turns Green (Good) or Red (Bad).
 
-## 🛠️ Practical Exercise: Big Numbers
+##  Practical Exercise: Big Numbers
 I have created `Jan11_KPI.csv`.
 
 ### Step 1: The "Big Number" (Card)
@@ -46,5 +46,6 @@ I have created `Jan11_KPI.csv`.
 - [ ] Created a Multi-row Card.
 - [ ] Built a KPI visual with Value, Trend, and Target.
 - [ ] Understood why the text turned Green or Red.
+
 
 
