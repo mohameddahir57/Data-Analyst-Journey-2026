@@ -1,0 +1,7 @@
+CustomerID,CustomerName,Country,MembershipLevel
+C101,John Smith,USA,Gold
+C102,Maria Garcia,Spain,Silver
+C103,Hans Müller,Germany,Platinum
+C104,Akira Tanaka,Japan,Gold
+C105,Emma Wilson,UK,Silver
+C106,Pierre Dubois,France,Bronze
