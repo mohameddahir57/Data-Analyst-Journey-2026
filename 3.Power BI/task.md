@@ -11,8 +11,8 @@
 - [x] Jan 8 — Bar & Line Charts
 - [x] Jan 9 — Tables & Matrices
 - [x] Jan 10 — Slicers & Filters
-- [] Jan 11 — Cards & KPIs
-- [] Jan 12–14 — Customer Insights Dashboard
+- [x] Jan 11 — Cards & KPIs
+- [x] Jan 12–14 — Customer Insights Dashboard
 
 ## WEEK 3 — DAX
 - [ ] Jan 15 — Calculated Columns & Measures
@@ -23,6 +23,7 @@
 
 ## WEEK 4 — FULL PORTFOLIO PROJECT
 - [ ] Jan 22–31 — Build a Complete BI Dashboard
+
 
 
 
