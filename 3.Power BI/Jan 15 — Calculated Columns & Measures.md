@@ -16,8 +16,6 @@ This is the **most important** concept to learn first.
 | **Use Case** | When you need to filter/slice by the result (e.g., 'High Value' vs 'Low Value' category). | For numerical aggregations (Total Sales, Profit Margin, YTD). |
 | **Best Practice** | Use sparingly. | Use for almost all numerical analysis. |
 
----
-
 ## 3. Basic Syntax & Math Operators
 The syntax is very similar to Excel:
 `New Measure Name = FUNCTION(Table[Column])`
@@ -27,8 +25,6 @@ The syntax is very similar to Excel:
 *   `*` (Multiply)
 *   `/` (Divide)
 
----
-
 ## 4. Basic Aggregation Functions
 These work exactly like Excel but iterate over a column in a table.
 
@@ -36,8 +32,6 @@ These work exactly like Excel but iterate over a column in a table.
 *   `AVERAGE(Table[Column])` - Averages the column.
 *   `COUNT(Table[Column])` - Counts numerical values.
 *   `DISTINCTCOUNT(Table[Column])` - Counts unique values.
-
----
 
 ## 5. Exercises
 
@@ -94,8 +88,7 @@ Now we want to see the totals on our report canvas.
 6.  Click "Laptop".
     *   *Notice how the Measure updates instantly based on the filter context.*
 
----
-
 ## 6. Key Takeaway
 *   **Columns** are for **Data** (filtering, categorizing).
 *   **Measures** are for **Math** (aggregating, analyzing).
+
