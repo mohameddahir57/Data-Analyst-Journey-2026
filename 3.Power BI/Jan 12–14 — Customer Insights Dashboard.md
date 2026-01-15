@@ -9,8 +9,6 @@ Unlike the "Sales Dashboard" (Week 1), this one needs to look deeper: *Who* is b
 - **Day 13**: Create Visuals (Maps, Slicers, Matrices).
 - **Day 14**: Formatting & Polishing (Themes, Titles, Colors).
 
----
-
 ## 🛠️ The Project Brief
 The Marketing Director wants to know:
 1.  **Total Customers** & **Total Revenue**.
@@ -22,9 +20,7 @@ The Marketing Director wants to know:
 I have provided:
 1.  `Jan12_Customers.csv` (Dimension: Name, Country, Level).
 2.  `Jan12_Sales.csv` (Fact: Date, CustomerID, Amount).
-
----
-
+   
 ## 🚀 Step-by-Step Guide
 
 ### Step 1: Model Setup (Day 12)
@@ -65,3 +61,4 @@ I have provided:
 - [ ] Map Visual created.
 - [ ] "Top 5" Filter applied to a bar chart.
 - [ ] Theme applied for professional look.
+
