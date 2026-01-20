@@ -16,13 +16,14 @@
 
 ## WEEK 3 — DAX
 - [x] Jan 15 — Calculated Columns & Measures
-- [ ] Jan 16 — CALCULATE & SUMX
-- [ ] Jan 17 — Row Context vs Filter Context
-- [ ] Jan 18 — Time Intelligence
-- [ ] Jan 19–21 — Revenue & Profit Dashboard
+- [x] Jan 16 — CALCULATE & SUMX
+- [x] Jan 17 — Row Context vs Filter Context
+- [x] Jan 18 — Time Intelligence
+- [x] Jan 19–21 — Revenue & Profit Dashboard
 
 ## WEEK 4 — FULL PORTFOLIO PROJECT
 - [ ] Jan 22–31 — Build a Complete BI Dashboard
+
 
 
 
