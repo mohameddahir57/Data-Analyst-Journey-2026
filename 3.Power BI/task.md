@@ -22,7 +22,8 @@
 - [x] Jan 19–21 — Revenue & Profit Dashboard
 
 ## WEEK 4 — FULL PORTFOLIO PROJECT
-- [ ] Jan 22–31 — Build a Complete BI Dashboard
+- [x] Jan 22–31 — Build a Complete BI Dashboard
+
 
 
 
