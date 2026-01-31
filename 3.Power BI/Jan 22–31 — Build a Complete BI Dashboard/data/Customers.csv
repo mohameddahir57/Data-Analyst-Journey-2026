@@ -1,0 +1,51 @@
+CustomerID,CustomerName,Segment,Gender
+CUST-001,Customer 1,Consumer,F
+CUST-002,Customer 2,Corporate,F
+CUST-003,Customer 3,Home Office,F
+CUST-004,Customer 4,Consumer,F
+CUST-005,Customer 5,Corporate,M
+CUST-006,Customer 6,Home Office,F
+CUST-007,Customer 7,Home Office,M
+CUST-008,Customer 8,Home Office,M
+CUST-009,Customer 9,Home Office,M
+CUST-010,Customer 10,Consumer,F
+CUST-011,Customer 11,Corporate,F
+CUST-012,Customer 12,Home Office,M
+CUST-013,Customer 13,Home Office,F
+CUST-014,Customer 14,Consumer,M
+CUST-015,Customer 15,Consumer,F
+CUST-016,Customer 16,Corporate,F
+CUST-017,Customer 17,Consumer,M
+CUST-018,Customer 18,Home Office,F
+CUST-019,Customer 19,Consumer,F
+CUST-020,Customer 20,Corporate,F
+CUST-021,Customer 21,Consumer,F
+CUST-022,Customer 22,Consumer,M
+CUST-023,Customer 23,Home Office,F
+CUST-024,Customer 24,Home Office,F
+CUST-025,Customer 25,Home Office,F
+CUST-026,Customer 26,Corporate,M
+CUST-027,Customer 27,Consumer,F
+CUST-028,Customer 28,Consumer,M
+CUST-029,Customer 29,Consumer,M
+CUST-030,Customer 30,Home Office,M
+CUST-031,Customer 31,Home Office,F
+CUST-032,Customer 32,Home Office,M
+CUST-033,Customer 33,Corporate,F
+CUST-034,Customer 34,Home Office,F
+CUST-035,Customer 35,Home Office,F
+CUST-036,Customer 36,Home Office,M
+CUST-037,Customer 37,Home Office,M
+CUST-038,Customer 38,Home Office,F
+CUST-039,Customer 39,Home Office,F
+CUST-040,Customer 40,Consumer,F
+CUST-041,Customer 41,Corporate,M
+CUST-042,Customer 42,Corporate,M
+CUST-043,Customer 43,Home Office,F
+CUST-044,Customer 44,Home Office,M
+CUST-045,Customer 45,Home Office,M
+CUST-046,Customer 46,Home Office,F
+CUST-047,Customer 47,Home Office,M
+CUST-048,Customer 48,Consumer,F
+CUST-049,Customer 49,Consumer,M
+CUST-050,Customer 50,Home Office,F

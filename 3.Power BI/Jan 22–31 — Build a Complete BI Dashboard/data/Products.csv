@@ -1,0 +1,21 @@
+ProductID,ProductName,Category,SubCategory,BasePrice
+PROD-001,Product - Office Supplies 1,Office Supplies,Paper,22.26
+PROD-002,Product - Furniture 2,Furniture,Chairs,119.37
+PROD-003,Product - Office Supplies 3,Office Supplies,Paper,341.58
+PROD-004,Product - Office Supplies 4,Office Supplies,Paper,299.34
+PROD-005,Product - Electronics 5,Electronics,Phones,55.91
+PROD-006,Product - Electronics 6,Electronics,Accessories,304.99
+PROD-007,Product - Office Supplies 7,Office Supplies,Paper,360.85
+PROD-008,Product - Office Supplies 8,Office Supplies,Binders,215.56
+PROD-009,Product - Furniture 9,Furniture,Storage,146.31
+PROD-010,Product - Electronics 10,Electronics,Phones,352.09
+PROD-011,Product - Furniture 11,Furniture,Tables,86.18
+PROD-012,Product - Furniture 12,Furniture,Chairs,55.45
+PROD-013,Product - Electronics 13,Electronics,Laptops,425.27
+PROD-014,Product - Office Supplies 14,Office Supplies,Pens,405.49
+PROD-015,Product - Office Supplies 15,Office Supplies,Pens,272.75
+PROD-016,Product - Furniture 16,Furniture,Chairs,280.5
+PROD-017,Product - Office Supplies 17,Office Supplies,Binders,443.87
+PROD-018,Product - Furniture 18,Furniture,Storage,104.22
+PROD-019,Product - Electronics 19,Electronics,Phones,334.02
+PROD-020,Product - Furniture 20,Furniture,Chairs,429.11
