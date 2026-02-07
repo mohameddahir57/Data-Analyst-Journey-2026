@@ -1,0 +1,21 @@
+CustomerID,Gender,Age,Tenure,ServiceType,MonthlyCharges,TotalCharges,Churn
+CUST1001,Male,34,12,Fiber Optic,70.50,846.00,No
+CUST1002,Female,45,2,DSL,45.00,90.00,Yes
+CUST1003,Female,22,24,Fiber Optic,85.25,2046.00,No
+CUST1004,Male,67,1,No Phone Service,29.95,29.95,Yes
+CUST1005,Female,50,48,Fiber Optic,105.00,5040.00,No
+CUST1006,Male,41,6,Fiber Optic,80.00,480.00,Yes
+CUST1007,Female,30,15,DSL,50.00,750.00,No
+CUST1008,Male,28,3,Fiber Optic,75.00,225.00,Yes
+CUST1009,Female,55,72,DSL,60.00,4320.00,No
+CUST1010,Male,39,12,Fiber Optic,95.00,1140.00,No
+CUST1011,Female,48,4,DSL,40.00,160.00,Yes
+CUST1012,Male,26,24,Fiber Optic,88.00,2112.00,No
+CUST1013,Female,62,10,DSL,55.00,550.00,No
+CUST1014,Male,33,1,Fiber Optic,70.00,70.00,Yes
+CUST1015,Female,46,55,Fiber Optic,110.00,6050.00,No
+CUST1016,Male,37,8,Fiber Optic,82.00,656.00,Yes
+CUST1017,Female,29,18,DSL,48.00,864.00,No
+CUST1018,Male,51,36,Fiber Optic,92.00,3312.00,No
+CUST1019,Female,43,2,DSL,42.00,84.00,Yes
+CUST1020,Male,35,12,Fiber Optic,78.00,936.00,No
